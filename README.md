@@ -8,8 +8,8 @@
 
 
 - ✔ [Elite - Academy -Desenvolvimento de um site para produtos educacionais.]() - 2020;
-- ✔ [Evo- Desenvolvimento de uma aplicação Web para solucionar problemas causados por fontes de dados diferentes]() - 2021;
-- ✔ [Target -Business Solutions -Desenvolver uma aplicação Web para gestão de Relacionamento com o cliente para organização dos processos comercias,oferencendo suporte adequado ás áreas de vendas para empresas parceiras.]()-2022;
+- ✔ [Evo- Aplicação Web para solucionar problemas causados por fontes de dados diferentes]()- 2021;
+- ✔ [Target -Aplicação Web para gestão de Relacionamento com o cliente para organização dos processos comercias]()-2022;
 - ✔ [SrSoja-Criação de um Aplicativo colaborativo para produtores rurais.]()-2022;
 - ✔[Operações Publicas -Criação de uma aplicação mobile para coleta de dados público]()-2022;
 
