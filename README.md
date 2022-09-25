@@ -1,11 +1,10 @@
-# Portfolio 
+# Portfólio 
 
 <div align=center>
 
-  <img src="https://user-images.githubusercontent.com/111800315/192152373-c7c2d0e3-e8ad-4c7f-82d0-df01ef5ce537.png" width=700 alt="Logotipo Elite Academy" />
-  <h1>Meus Projetos</h1>
+  <img src="https://user-images.githubusercontent.com/111800315/192152373-c7c2d0e3-e8ad-4c7f-82d0-df01ef5ce537.png" width=600 alt="Logotipo Elite Academy" />
+  <h2>Meus Projetos</h2>
   </div>
-
 
 - ✔ [Elite Academy -Desenvolvimento de um site para produtos educacionais.]() - 2020;
 - ✔ [Evo- Aplicação Web para solucionar problemas causados por fontes de dados diferentes]()- 2021;
