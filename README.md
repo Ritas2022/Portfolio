@@ -2,7 +2,7 @@
 
 <div align=center>
 
-  <img src="https://user-images.githubusercontent.com/111800315/192149442-73fafa5e-1f17-40c9-a979-1db07e5436e4.png" width=700 alt="Logotipo Elite Academy" />
+  <img src="https://user-images.githubusercontent.com/111800315/192152373-c7c2d0e3-e8ad-4c7f-82d0-df01ef5ce537.png" width=700 alt="Logotipo Elite Academy" />
   <h1>Meus Projetos</h1>
   </div>
 
