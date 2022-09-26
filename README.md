@@ -1,6 +1,6 @@
 # Portfólio 
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/111800315/192160222-bfb88dbe-19f2-4ad0-8592-a1b1b212db2b.png" width=600 alt="Logotipo Elite Academy" />
+  <img src="https://user-images.githubusercontent.com/111800315/192199134-3d598ff3-1051-4019-bade-9736a048f8ad.png" width=600 alt="Logotipo Elite Academy" />
   <h2>Meus Projetos</h2>
     </div>
 
