@@ -15,7 +15,7 @@ O objetivo do nosso desafio foi a criação do site de vendas de aulas,com ênfa
 ## Parceiro Acadêmico
 A Empresa Parceira foi representada pelo Prof.º Antonio Egydio.<br>
 Como solução para o cliente foi desenvolvido um site com uma interface simples, amigavél e intuitiva.<br>
-Possibilitando assim como diferencial a Interface para saldo de crédito, carrinho de compras, Relatório de Vendas. <br>
+Apresentando como diferencial uma Interface para saldo de crédito, carrinho de compras, Relatório de Vendas. <br>
 Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno. 
 
 
