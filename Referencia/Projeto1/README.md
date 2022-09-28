@@ -2,7 +2,7 @@
 
 <div align=center>
  <h3>Elite Academy</h3>
-  <img src="https://user-images.githubusercontent.com/111800315/192194539-4a57fe0a-7687-49c3-9918-d2703c4dafdb.png" width=400 alt="Logotipo Elite Academy" />
+  <img src="https://user-images.githubusercontent.com/111800315/192763939-29ea9044-a834-4df3-9da0-8f6eb83dadf5.gif" width=400 alt="Logotipo Elite Academy" />
  
   <a href="https://drive.google.com/file/d/171P9D6hfO-bxYBSApbL8MUAtkh-QTQEs/view?usp=sharing">Video da Apresentação do Projeto</a>
 </div>
