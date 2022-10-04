@@ -12,4 +12,9 @@
 5) [Criação de uma aplicação mobile para coleta de dados público]()-2022;
   </div>
 
+  ## Contatos
+* [GIT](https://github.com/ritas2022)
+* [LinkedIn](https://www.linkedin.com/in/rita-ferreira-894ba1200)
+
+
  
