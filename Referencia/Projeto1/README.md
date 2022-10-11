@@ -24,27 +24,25 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 
 #### Tecnologias Utilizadas
 
-- WordPress - Provedor de hospedagem do site criado e estilização.
+- WordPress - Provedor de hospedagem do site criado e estilização;
 - HTML - Linguagem de marcação utilizada na construção das páginas;
-- CSS -  Linguagem de estilização utilizada para conceitos de estilos;
+- CSS -  Linguagem de estilização utilizada para conceitos de estilos.
 
 #### Contribuições Pessoais
 Levantamento de Requisito para Plano de Negócio ,Recuperação de senha.
 Criação de Conteúdos, Criação de Vídeos.
 
 #### Hard Skills
-- WordPress: Sei fazer com ajuda.
+- WordPress: Sei fazer com ajuda;
 - HTML - Sei fazer com ajuda;
-- CSS - Sei fazer com ajuda;
+- CSS - Sei fazer com ajuda.
 
 #### Soft Skills
 - Trabalhar sob pressão: Com muitos objetivos e metas com prazos determinados a ser seguido. 
 - Comunicação: Não é apenas sobre a fala. A escuta, atenta e empática, também faz parte do bom relacionamento e percepção do problema. 
 
 
-## Meus Principais Conhecimentos
 
-- JavaScript, C, HTML, CSS, React Native
 
 
 

@@ -12,6 +12,10 @@
 5) [Criação de uma aplicação mobile para coleta de dados público](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto5)-2022;
   </div>
 
+  ## Meus Principais Conhecimentos
+
+- JavaScript, C, HTML, CSS, React Natives
+
   ## Contatos
 * [GIT](https://github.com/ritas2022)
 * [LinkedIn](https://www.linkedin.com/in/rita-ferreira-894ba1200)
