@@ -46,8 +46,5 @@ Criação de Conteúdos, Criação de Vídeos.
 
 - JavaScript, C, HTML, CSS, React Native
 
-## Contatos
-* [GIT](https://github.com/ritas2022)
-* [LinkedIn](https://www.linkedin.com/in/rita-ferreira-894ba1200)
 
 
