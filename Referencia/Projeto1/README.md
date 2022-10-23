@@ -38,8 +38,17 @@ Criação de Conteúdos, Criação de Vídeos.
 - CSS - Sei fazer com ajuda.
 
 #### Soft Skills
-- Trabalhar sob pressão: Com muitos objetivos e metas com prazos determinados a ser seguido. 
-- Comunicação: Não é apenas sobre a fala. A escuta, atenta e empática, também faz parte do bom relacionamento e percepção do problema. 
+Minhas habilidades em Soft Skills, foram aprimoradas com a aplicação do Projeto Integrador.
+No projeto do segundo semestre onde colocamos o nome da equipe como equipe evolução.
+Neste projeto onde o objetivo era desenvolver uma aplicação Web para solucionar problemas causados por fonte de dados diferentes, eu tive a oportunidade de ser representar o Scrum master.
+Dentro desta função de Scrum Master observei que a dificuldade maior é fazer todos os integrantes da equipe caminhar juntos em um mesmo objetivo e no mesmo ritmo, é neste sentido que o Scrum Master precisa ter a visão de como agir, pois, é preciso incentivar os integrantes da equipe a adquirir o conhecimento técnico, mas o meu desafio maior foi motivar uma equipe sem ter uma visão mais abrangente de por onde começar.
+Foi neste momento que entendi a importância das reuniões com a equipe, saber motivar cada integrante individualmente dar um feedback plausível, fazendo com que o próprio integrante da equipe consiga identificar onde ele precisa aprimorar seus conhecimentos.
+A maior parte do tempo eu procurava deixar a equipe ciente de que estávamos todos em busca de da evolução dia-a-dia a fim de desenvolver o sistema no qual assumimos o compromisso de desenvolver.
+Eu como Scrum Master procurava manter a equipe com mais “leveza” e assim proporcionar a criatividade e a motivação de cada um. 
+No meu ponto de vista pessoal eu consegui ter uma melhora significativa no que diz respeito a trabalho em equipe e comunicação.
+Particularmente foi um grande desafio pessoal de muito aprendizado e até hoje sou grata por todos os integrantes da equipe que contribuíram para o desenvolvimento do sistema pois conseguimos cumprir a responsabilidade assumida.
+Então identifico em mim como habilidades interpessoais o Trabalho em Equipe e a Comunicação.        
+
 
 
 
