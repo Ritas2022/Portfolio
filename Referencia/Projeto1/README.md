@@ -40,7 +40,7 @@ Criação de Conteúdos, Criação de Vídeos.
 #### Soft Skills
 Minhas habilidades em Soft Skills, foram aprimoradas com a aplicação do Projeto Integrador.<br>
 Neste projeto onde o objetivo era desenvolver uma aplicação Web para solucionar problemas<br>causados por fonte de dados diferentes.<br> 
-Eu tive a oportunidade de representar o Scrum master,dentro desta função de Scrum Master<br>observei que a dificuldade maior era fazer todos os integrantes da equipe caminhar juntos em <br>um mesmo objetivo e no mesmo ritmo, é neste sentido que o Scrum Master precisa ter a visão<br>de como agir,pois, é preciso incentivar os integrantes da equipe a adquirir o conhecimento técnico.
+Eu tive a oportunidade de representar o Scrum master,dentro desta função de Scrum Master<br>observei que a dificuldade maior era fazer todos os integrantes da equipe caminhar juntos em <br>sum mesmo objetivo e no mesmo ritmo, é neste sentido que o Scrum Master precisa ter a visão<br>de como agir,pois, é preciso incentivar os integrantes da equipe a adquirir o conhecimento técnico.<br>
 Mas o meu desafio maior foi motivar uma equipe sem ter uma visão mais abrangente de por onde começar.<br>
 Foi neste momento que entendi a importância das reuniões com a equipe, saber motivar cada integrante individualmente dar um feedback plausível,fazendo com que o próprio integrante da equipe consiga identificar onde ele precisa aprimorar seus conhecimentos.<br>
 A maior parte do tempo eu procurava deixar a equipe ciente de que estávamos todos em busca da evolução dia-a-dia a fim de desenvolver o sistema no qual assumimos o compromisso de entregar.<br>
