@@ -1,6 +1,6 @@
 # Portfólio 
 <div align=center>
-  <img src="" width=500 alt="" />
+  <img src="https://i.imgur.com/kEh4Dqy.png" width=100 alt="" />
   <h2>Meus Projetos</h2>
     </div>
 
@@ -16,7 +16,13 @@
 
   Meus conhecimentos foram aprendidos ao longo do curso proporcionadado pela fatec.<br>
 
-  Linguagem de Programação: PYTHON,C,CSS,HTML,JAVASCRIPT,REACT NATIVE.<br>
+  Linguagem de Programação: PYTHON,
+  * C
+  * CSS
+  * HTML
+  * JAVASCRIPT
+  * REACT NATIVE.
+  <br>
 
   Prototipação: FIGMA.<br>
 
