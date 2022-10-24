@@ -3,7 +3,7 @@
 
 
 <div align=center>
- <h3>TARGET</h3>
+ <h3>SRSOJA</h3>
   <img src="" width=400 alt="" />
  
   <a href="">Video da Apresentação do Projeto</a>
