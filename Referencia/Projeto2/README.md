@@ -18,7 +18,7 @@
 
 
 
-[Visualizar GitHub do Projeto](https://drive.google.com/file/d/1XZya1qtJWX7com6aUqc0zthrEIolo1CD/view?usp=sharing)
+[Visualizar GitHub do Projeto](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021.git)
 
 #### Tecnologias Utilizadas
 
