@@ -3,7 +3,7 @@
 
 <div align=center>
  <h3>EVOLUTION</h3>
-  <img src="https://user-images.githubusercontent.com/73767256/120907507-6fbc1f00-c638-11eb-9d9b-8f866a07375f.gif" width=200 alt="" />
+  <img src="https://user-images.githubusercontent.com/73767256/120907507-6fbc1f00-c638-11eb-9d9b-8f866a07375f.gif" width=400 alt="" />
  
   <a href="https://drive.google.com/file/d/1XZya1qtJWX7com6aUqc0zthrEIolo1CD/view?usp=sharing">Video da Apresentação do Projeto</a>
 </div>
