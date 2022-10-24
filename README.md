@@ -8,10 +8,11 @@
   * Estudante do 5° semestre do curso de Analise e Desenvolvimento de Software.
 
   * Curso Técnico em Informática.
-    Colégio Técnico Antonio Teixeira - Univap (2022 -2004)  
+    Colégio Técnico Antonio Teixeira - Univap (2022-2004)  
 
   ## Experiência:
-    Atualmente trabalho na empresa Atacadão - SJC, como Auxiliar de Informática.
+
+   * Atualmente trabalho na empresa Atacadão - SJC,como Auxiliar de Informática.
     
 <div align=center>
    <h2>Meus Projetos</h2>
