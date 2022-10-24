@@ -29,8 +29,11 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 - CSS -  Linguagem de estilização utilizada para conceitos de estilos.
 
 #### Contribuições Pessoais
-Levantamento de Requisito para Plano de Negócio ,Recuperação de senha.
-Criação de Conteúdos, Criação de Vídeos.
+Contribui com a parte do Plano e Regras de Negócio Final.
+Consegui contribuir e somar na parte de conteúdo do site, mas matérias de Hardware, ajudei muito a equipe neste contexto pelo fato de gostar deste tema.
+Preparei todo o material de vídeo e texto referente a matéria de AOC, atualizei o conteúdo de matemática discreta, contribui na busca de informação referente aos plugin WooCommerce, referente a criação do site.
+Parte de programação recuperação de senha do site, e cadastro de novos usuários.   
+
 
 #### Hard Skills
 - WordPress: Sei fazer com ajuda;
@@ -38,6 +41,11 @@ Criação de Conteúdos, Criação de Vídeos.
 - CSS - Sei fazer com ajuda.
 
 #### Soft Skills
+
+Resiliência: Neste primeiro semestre onde iniciei o curso uma habilidade que consegui aprimorar foi a resiliência pelo motivo de que a primeiro grupo que montamos não deu certo,
+Então tive que me adaptar às mudanças, superar os problemas que encontramos no primeiro grupo, me recuperar das adversidades, até mesmo para não cometer os mesmos erros que tivemos na primeira formação da equipe.
+
+
 
 
 
