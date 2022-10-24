@@ -14,7 +14,21 @@
 
   ## Meus Principais Conhecimentos
 
-- JavaScript, C, HTML, CSS, React Natives
+  Meus conhecimentos foram aprendidos ao longo do curso proporcionadado pela fatec.<br>
+
+  Linguagem de Programação: PYTHON,C,CSS,HTML,JAVASCRIPT,REACT NATIVE.<br>
+
+  Prototipação: FIGMA.<br>
+
+  Repositório de armazenamento: GITHUB. <br>
+
+  Noções Basicas de Hardware.<br>
+
+  Noções Basicas de Redes de Computadores.<br>
+
+
+
+
 
   ## Contatos
 * [GIT](https://github.com/ritas2022)
