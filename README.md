@@ -7,7 +7,7 @@
   ## Formação Acadêmica:
   * Estudante do 5° semestre do curso de Analise e Desenvolvimento de Software.
 
-  * Curso Técnico em Informática.
+  * Técnico em Informática.<br>
     Colégio Técnico Antonio Teixeira - Univap (2022-2004)  
 
   ## Experiência:
