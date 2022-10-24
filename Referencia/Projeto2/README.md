@@ -22,7 +22,10 @@
 
 #### Tecnologias Utilizadas
 
+- Node.js- TypeScript Como ferramenta para desenvolvimento do nosso backend, foi          escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js;<br>
+- ReactJS - foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização e pela documentação robusta.
 
+   <br/>
 
 #### Contribuições Pessoais
 
