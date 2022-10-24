@@ -4,6 +4,11 @@
   <h2>Meus Projetos</h2>
     </div>
 
+  # Formação Acadêmica:
+
+  # Experiência:
+
+
 
 1) [Desenvolvimento de um site para produtos educacionais.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto1) - 2020;
 2) [Aplicação para solucionar problemas causados por fontes de dados diferentes](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto2)-2021;
