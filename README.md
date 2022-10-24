@@ -1,6 +1,6 @@
 # Portfólio 
 <div align=center>
-  <img src="https://i.imgur.com/kEh4Dqy.png" width=200 alt="" />
+  <img src="https://i.imgur.com/kEh4Dqy.png" width=100 alt="" />
   <h2>Rita de Cássia Ferreira</h2>
     </div>
 
