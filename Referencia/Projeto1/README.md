@@ -30,7 +30,7 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 
 #### Contribuições Pessoais
 Contribui com a parte do Plano e Regras de Negócio Final.<br>
-Consegui contribuir e somar na parte de conteúdo do site, mas matérias de Hardware, ajudei muito a equipe neste contexto pelo fato de gostar deste tema.
+Consegui contribuir e somar na parte de conteúdo do site:<br> mas matérias de Hardware, ajudei muito a equipe neste contexto pelo fato de gostar deste tema.<br>
 Preparei todo o material de vídeo e texto referente a matéria de AOC, atualizei o conteúdo de matemática discreta, contribui na busca de informação referente aos plugin WooCommerce, referente a criação do site.
 Parte de programação recuperação de senha do site, e cadastro de novos usuários.   
 
