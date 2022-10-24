@@ -1,13 +1,15 @@
 # Portfólio 
 <div align=center>
   <img src="https://i.imgur.com/kEh4Dqy.png" width=100 alt="" />
-  <h2>Meus Projetos</h2>
+  <h2>Rita de Cássia Ferreira</h2>
     </div>
 
   # Formação Acadêmica:
 
   # Experiência:
-
+<div align=center>
+   <h2>Meus Projetos</h2>
+    </div>
 
 
 1) [Desenvolvimento de um site para produtos educacionais.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto1) - 2020;
