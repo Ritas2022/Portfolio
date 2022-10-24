@@ -1,6 +1,5 @@
 ## Projeto2 
 
-S
 
 <div align=center>
  <h3>EVOLUTION</h3>
