@@ -44,7 +44,7 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 
 #### Soft Skills
 
-* Resiliência: Neste primeiro semestre onde iniciei o curso<br> uma habilidade que consegui aprimorar foi a resiliência pelo motivo de que a primeiro grupo que montamos não deu certo,
+* Resiliência: Neste primeiro semestre onde iniciei o curso uma habilidade que consegui aprimorar<br> foi a resiliência pelo motivo de que a primeiro grupo que montamos não deu certo,
 Então tive que me adaptar às mudanças, superar os problemas que encontramos no primeiro grupo, me recuperar das adversidades, até mesmo para não cometer os mesmos erros que tivemos na primeira formação da equipe.
 
 
