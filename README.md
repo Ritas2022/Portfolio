@@ -4,9 +4,9 @@
   <h2>Rita de Cássia Ferreira</h2>
     </div>
 
-  # Formação Acadêmica:
+  ## Formação Acadêmica:
 
-  # Experiência:
+  ## Experiência:
 <div align=center>
    <h2>Meus Projetos</h2>
     </div>
