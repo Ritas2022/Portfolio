@@ -29,12 +29,12 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 - CSS -  Linguagem de estilização utilizada para conceitos de estilos.
 
 #### Contribuições Pessoais
-Contribui com a parte do Plano e Regras de Negócio Final.<br>
-Consegui contribuir e somar na parte de conteúdo do site, mas matérias de Hardware.<br>
-Ajudei muito a equipe neste contexto pelo fato de gostar deste tema.<br>
-Preparei todo o material de vídeo e texto referente a matéria de AOC.<br>
-Atualizei o conteúdo de matemática discreta, contribui na busca de informação referente<br> aos plugin WooCommerce, referente a criação do site.<br>
-Parte de programação recuperação de senha do site, e cadastro de novos usuários.   
+* Contribui com a parte do Plano e Regras de Negócio Final.<br>
+* Consegui contribuir e somar na parte de conteúdo do site, mas matérias de Hardware.<br>
+* Ajudei muito a equipe neste contexto pelo fato de gostar deste tema.<br>
+* Preparei todo o material de vídeo e texto referente a matéria de AOC.<br>
+* Atualizei o conteúdo de matemática discreta, contribui na busca de informação referente<br> aos plugin WooCommerce, referente a criação do site.<br>
+* Parte de programação recuperação de senha do site, e cadastro de novos usuários.   
 
 
 #### Hard Skills
