@@ -19,7 +19,7 @@
 
 
 
-[Visualizar GitHub do Projeto]()
+[Visualizar GitHub do Projeto](https://github.com/Ritas2022/api-sem3-target-crm.git)
 
 #### Tecnologias Utilizadas
 
