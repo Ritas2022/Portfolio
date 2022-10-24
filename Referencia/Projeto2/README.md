@@ -39,7 +39,7 @@ Foi neste momento que entendi a importância das reuniões com a equipe, saber m
 A maior parte do tempo eu procurava deixar a equipe ciente de que estávamos todos em busca<br> da evolução dia-a-dia a fim de desenvolver o sistema no qual assumimos o compromisso de entregar.<br>
 Eu como Scrum Master procurava manter a equipe com mais “leveza” e assim proporcionar a criatividade<br> e a motivação de cada um.<br><br> 
 No meu ponto de vista pessoal eu consegui ter uma melhora significativa no que diz respeito a trabalho<br> em equipe e comunicação.<br>
-Particularmente foi um grande desafio pessoal de muito aprendizado e  sou grata por todos os integrantes<br> da equipe que contribuíram para o desenvolvimento do sistema pois conseguimos cumprir a responsabilidade assumida.<br>
+Particularmente foi um grande desafio pessoal de muito aprendizado e  sou grata por todos os integrantes<br> da equipe que contribuíram para o desenvolvimento do sistema pois conseguimos cumprir a responsabilidade<br> assumida.<br>
 Então identifico em mim como habilidades interpessoais, o Trabalho em Equipe e a Comunicação.  
 
 
