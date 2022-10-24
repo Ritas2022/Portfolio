@@ -29,7 +29,9 @@
 #### Hard Skills
 
 
-#### Soft Skills
+#### Soft Skills <br>
+<b>Trabalho em Equipe e Comunicação </b>
+
 Minhas habilidades em Soft Skills, foram aprimoradas com a aplicação do Projeto Integrador.<br>
 Neste projeto onde o objetivo era desenvolver uma aplicação Web para solucionar problemas<br>causados por fonte de dados diferentes.<br><br> 
 Eu tive a oportunidade de representar o Scrum master,dentro desta função de Scrum Master<br>observei que a dificuldade maior era fazer todos os integrantes da equipe caminhar juntos em <br>um mesmo objetivo e no mesmo ritmo, é neste sentido que o Scrum Master precisa ter a visão<br>de como agir,pois, é preciso incentivar os integrantes da equipe a adquirir o conhecimento técnico.<br><br>
