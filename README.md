@@ -16,7 +16,8 @@
 
   Meus conhecimentos foram aprendidos ao longo do curso proporcionadado pela fatec.<br>
 
-  Linguagem de Programação: PYTHON,
+  Linguagem de Programação: 
+  * PYTHON
   * C
   * CSS
   * HTML
