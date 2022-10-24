@@ -14,7 +14,7 @@
 
    * Atualmente trabalho na empresa Atacadão - SJC, como Auxiliar de Informática.<br>
    * Iniciei trabalhando como operadora de Caixa no período de 16/10/2013 a 30/09/2019.<br>
-   * Atualmente não estou estagiando na área na qual estou estudando.
+   * Atualmente não estou estagiando na área na qual estudo.
 
     
 <div align=center>
