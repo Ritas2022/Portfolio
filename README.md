@@ -8,7 +8,7 @@
   * Estudante do 5° semestre do curso de Analise e Desenvolvimento de Software.
 
   * Técnico em Informática.<br>
-    Colégio Técnico Antonio Teixeira - Univap (2022-2004)  
+    Colégio Técnico Antonio Teixeira Fernandes - Univap (2022-2004)  
 
   ## Experiência:
 
