@@ -32,8 +32,17 @@ visualizar graficamente as informações.
    <br/>
 
 #### Contribuições Pessoais
+ * Contribui com a documentação do projeto.
+ * Desenvolvimento do Burndown das Sprints.
+ * Desenvolvimento do GitHub do projeto.
+ * Desenvolvimento da atualização do vídeo da entrega final.
+ * Desenvolvimento da programação do site.
+ * Contribui também removendo as barreiras entre o desenvolvimento e o cliente.
 
 #### Hard Skills
+* React - Sei fazer com ajuda;
+* Node.Js - Sei fazer com ajuda;
+* TypeScript - Sei fazer com ajuda;
 
 
 #### Soft Skills <br>
