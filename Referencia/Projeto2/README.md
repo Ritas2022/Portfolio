@@ -16,7 +16,7 @@ Desenvolvimento de uma aplicação web para solucionar problemas causados por da
 
 ## Parceiro Acadêmico
 Empresa parceira GSW - Soluções Integradas.<br>
-Como solução fizemos a unificação dos dados em uma única base de dados.
+Como solução fizemos a unificação dos dados em uma única base de dados.<br>
 Para apresentação das informações criamos um painel de controle onde é possivel 
 visualizar graficamente as informações. 
 
