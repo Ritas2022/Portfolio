@@ -11,12 +11,14 @@
 
 
 ### Em 2021-1
+Desenvolvimento de uma aplicação web para solucionar problemas causados por dados de fontes diferentes.
 
 
 ## Parceiro Acadêmico
-
-
-
+Empresa parceira GSW - Soluções Integradas.
+Como solução fizemos a unificação dos dados em uma única base de dados.
+Para apresentação das informações criamos um painel de controle onde é possivel 
+visualizar graficamente as informações. 
 
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021.git)
 
