@@ -37,7 +37,7 @@ visualizar graficamente as informações.
 
 
 #### Soft Skills <br>
-<b>Trabalho em Equipe e Comunicação </b>
+* <b> Trabalho em Equipe e Comunicação </b>
 
 Minhas habilidades em Soft Skills, foram aprimoradas com a aplicação do Projeto Integrador.<br>
 Neste projeto onde o objetivo era desenvolver uma aplicação Web para solucionar problemas<br>causados por fonte de dados diferentes.<br><br> 
