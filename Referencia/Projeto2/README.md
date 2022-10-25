@@ -15,7 +15,7 @@ Desenvolvimento de uma aplicação web para solucionar problemas causados por da
 
 
 ## Parceiro Acadêmico
-Empresa parceira GSW - Soluções Integradas.
+Empresa parceira GSW - Soluções Integradas.<br>
 Como solução fizemos a unificação dos dados em uma única base de dados.
 Para apresentação das informações criamos um painel de controle onde é possivel 
 visualizar graficamente as informações. 
@@ -24,8 +24,8 @@ visualizar graficamente as informações.
 
 #### Tecnologias Utilizadas
 
-- Node.js- TypeScript Como ferramenta para desenvolvimento do nosso backend, foi          escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js;<br>
-- ReactJS - foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização e pela documentação robusta.
+- Node.js- TypeScript Como ferramenta para desenvolvimento do nosso backend,<br> foi      escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js;<br>
+- ReactJS - foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização<br> e pela documentação robusta.
 
    <br/>
 
