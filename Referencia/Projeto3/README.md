@@ -2,7 +2,7 @@
 
 <div align=center>
  <h3>TARGET</h3>
-  <img src="" width=400 alt="" />
+  <img src="https://user-images.githubusercontent.com/111800315/197910895-aa579039-7f44-4c2a-ab75-4bdc66f5ae66.gif" width=400 alt="" />
  
   <a href="https://drive.google.com/file/d/1u0fAbdZM8d3pBwflhzTD36YD8kbwA33W/view?usp=sharing">Video da Apresentação do Projeto</a>
 </div>
