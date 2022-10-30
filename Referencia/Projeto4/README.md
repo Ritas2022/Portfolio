@@ -12,13 +12,13 @@
 
 
 ### Em 2022-1
-Desafio criação de um aplicativo para produtores rurais.
-Estas informações consistem em dados alfa númericos e 
+Desafio criação de um aplicativo para produtores rurais.<br>
+Estas informações consistem em dados alfa númericos e <br>
 imagens georreferenciadas pelo GPS do celular.
 
 ## Parceiro Acadêmico
 
-Empresa Parceira Visiona - Tecnologia Espacial.
+Empresa Parceira Visiona - Tecnologia Espacial.<br>
 Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
 estatisticas sobre sua produção, comparando - a com dados históricos acessados
 de APIs públicas e informáções atuais de outros usuários.
@@ -32,14 +32,14 @@ de APIs públicas e informáções atuais de outros usuários.
 - PostGreSql-  Suporte nativo ao JSON, facilitando o desenvolvimento.
 
 #### Contribuições Pessoais
-Contribui com a parte de organização do github.
-Também contribui com o desenvolvimento de algumas telas do projeto.
+Contribui com a parte de organização do github.<br>
+Também contribui com o desenvolvimento de algumas telas do projeto.<br>
 Contribui com o desenvolvimento do BurnDown. 
 
 #### Hard Skills
 Suportar críticas: Neste projeto eu tive bastante dificuldade em acompanhar 
-a equipe por motivos pessoais.
-Então tive que saber lidar com algumas criticas, mas consegui entregar 
+a equipe<br> por motivos pessoais.
+Então tive que saber lidar com algumas criticas, mas consegui entregar <br>
 o trabalho que me comprometi em desenvolver.
 
 #### Soft Skills
