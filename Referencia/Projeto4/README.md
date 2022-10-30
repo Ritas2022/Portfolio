@@ -4,7 +4,7 @@
 
 <div align=center>
  <h3>SRSOJA</h3>
-  <img src="https://user-images.githubusercontent.com/73767256/168936746-33176a30-e4c1-454d-a2df-84937bbe9029.gif" width=400 alt="" />
+  <img src="https://user-images.githubusercontent.com/73767256/168936746-33176a30-e4c1-454d-a2df-84937bbe9029.gif" width=200 alt="" />
  
   <a href="">Video da Apresentação do Projeto</a>
 </div>
