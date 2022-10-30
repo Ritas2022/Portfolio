@@ -4,33 +4,49 @@
 
 <div align=center>
  <h3>SRSOJA</h3>
-  <img src="" width=400 alt="" />
+  <img src="https://user-images.githubusercontent.com/73767256/168936746-33176a30-e4c1-454d-a2df-84937bbe9029.gif" width=400 alt="" />
  
   <a href="">Video da Apresentação do Projeto</a>
 </div>
 
 
 
-### Em 2020-2
-
+### Em 2022-1
+Desafio criação de um aplicativo para produtores rurais.
+Estas informações consistem em dados alfa númericos e 
+imagens georreferenciadas pelo GPS do celular.
 
 ## Parceiro Acadêmico
 
-
-
+Empresa Parceira Visiona - Tecnologia Espacial.
+Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
+estatisticas sobre sua produção, comparando - a com dados históricos acessados
+de APIs públicas e informáções atuais de outros usuários.
 
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/API-4-SrSoja-2022-1.git)
 
 #### Tecnologias Utilizadas
 
-
+- ReactNative - Praticidade no desenvolvimento híbrido e aplicativos mobile;
+- JavaScript- Funcionamento virtual em aplicações IOS e Android ;
+- PostGreSql-  Suporte nativo ao JSON, facilitando o desenvolvimento.
 
 #### Contribuições Pessoais
+Contribui com a parte de organização do github.
+Também contribui com o desenvolvimento de algumas telas do projeto.
+Contribui com o desenvolvimento do BurnDown. 
 
 #### Hard Skills
-
+Suportar críticas: Neste projeto eu tive bastante dificuldade em acompanhar 
+a equipe por motivos pessoais.
+Então tive que saber lidar com algumas criticas, mas consegui entregar 
+o trabalho que me comprometi em desenvolver.
 
 #### Soft Skills
+
+- ReactNative - Sei fazer com ajuda;
+- JavaScript- Sei fazer com ajuda ;
+- PostGreSql-  Sei fazer com ajuda.
 
 
 
