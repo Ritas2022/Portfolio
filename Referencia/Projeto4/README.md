@@ -6,21 +6,18 @@
  <h3>SRSOJA</h3>
   <img src="https://user-images.githubusercontent.com/73767256/168936746-33176a30-e4c1-454d-a2df-84937bbe9029.gif" width=200 alt="" />
  
-  <a href="">Video da Apresentação do Projeto</a>
-</div>
-
-
+  </div>
 
 ### Em 2022-1
 Desafio criação de um aplicativo para produtores rurais.<br>
-Estas informações consistem em dados alfa númericos e <br>
+Estas informações consistem em dados alfa númericos e 
 imagens georreferenciadas pelo GPS do celular.
 
 ## Parceiro Acadêmico
 
 Empresa Parceira Visiona - Tecnologia Espacial.<br>
 Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
-estatisticas sobre sua produção, comparando - a com dados históricos acessados
+estatisticas<br> sobre sua produção, comparando - a com dados históricos acessados
 de APIs públicas e informáções atuais de outros usuários.
 
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/API-4-SrSoja-2022-1.git)
