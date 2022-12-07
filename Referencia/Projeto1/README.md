@@ -50,7 +50,7 @@ Tenho conhecimento na utilização das tags<br>
 - CSS - É uma linguagem baseada em regras.<br>
 Onde você define regras especificando grupos de estilo que devem ser aplicados<br>
 para elementos particulares ou grupos de elementos na pagina web<br>
-Os conhecimentos que eu adquiri em css forma o posicionamento dos elementos, fontes,cores.
+Os conhecimentos que eu adquiri em css,posicionamento dos elementos, fontes,cores.
 
 #### Soft Skills
 
