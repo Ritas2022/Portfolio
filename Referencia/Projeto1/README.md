@@ -38,9 +38,19 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 
 
 #### Hard Skills
-- WordPress: Sei fazer com ajuda;
-- HTML - Sei fazer com ajuda;
-- CSS - Sei fazer com ajuda.
+- WordPress: É uma ferramenta que facilita a administração, não somente de blog e sites<br>, mas também de lojas virtuais e outras aplicações web.<br>
+Os conhecimentos que eu adquiri utilizando está ferramenta foram criação de blogs
+partindo do zero, inserir imagens, instalação de plugins para habilitar as funcionalidades .<br> 
+
+- HTML - É uma linguagem de marcação de hipertexto.<br>
+Esta ferramenta permite a construção de websites e a inserção de novos conteúdos,<br>
+como videos e imagens.
+Tenho conhecimento na utilização das tags<br>
+
+- CSS - É uma linguagem baseada em regras.<br>
+Onde você define regras especificando grupos de estilo que devem ser aplicados<br>
+para elementos particulares ou grupos de elementos na pagina web<br>
+Os conhecimentos que eu adquiri em css forma o posicionamento dos elementos, fontes,cores.
 
 #### Soft Skills
 
