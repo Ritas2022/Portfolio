@@ -40,9 +40,17 @@ visualizar graficamente as informações.
  * Contribui também removendo as barreiras entre o desenvolvimento e o cliente.
 
 #### Hard Skills
-* React - Sei fazer com ajuda;
-* Node.Js - Sei fazer com ajuda;
-* TypeScript - Sei fazer com ajuda;
+* React - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
+Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
+estilização, criação de listas;<br>
+
+* Node.Js - É um ambiente de execução JavaScript, linguagem padrão de manipulação
+de paginas html criada em 1995.<br>
+Como funciona: É uma ferramenta de algo que você só pode executar no navegador para algo que pode ser executado em sua máquina como uma aplicação independente
+Consigo utilizar estes  conhecimentos com ajuda de videos explicativos;<br>
+
+* TypeScript - O TypeScript é um superset que serve para potencializar a linguagem JavaScript.<br>
+A diferença é que o TypeScript aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não.<br>   
 
 
 #### Soft Skills <br>
