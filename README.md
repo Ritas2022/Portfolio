@@ -12,7 +12,7 @@
 
   ## Experiência:
 
-   * Atualmente trabalho na empresa <a href="">ATACADÃO - SJC </a> como Auxiliar de Informática.<br>     
+   * Atualmente trabalho na empresa Atacadão - SJC como Auxiliar de Informática.<br>     
 <div align=center>
    <h2>Meus Projetos</h2>
     </div>
