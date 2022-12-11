@@ -1,6 +1,5 @@
 # Projeto Evolution 
 
-
 <div align=center>
  <h3>EVOLUTION</h3>
   <img src="https://user-images.githubusercontent.com/73767256/120907507-6fbc1f00-c638-11eb-9d9b-8f866a07375f.gif" width=400 alt="" />
@@ -8,11 +7,8 @@
   <a href="https://drive.google.com/file/d/1XZya1qtJWX7com6aUqc0zthrEIolo1CD/view?usp=sharing">Video da Apresentação do Projeto</a>
 </div>
 
-
-
-### Em 2021-1
+## Em 2021-1
 Desenvolvimento de uma aplicação web para solucionar problemas causados por dados de fontes diferentes.
-
 
 ## Parceiro Acadêmico
 Empresa parceira GSW - Soluções Integradas.<br>
@@ -22,16 +18,15 @@ visualizar graficamente as informações.
 
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021.git)
 
-#### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Node.js TypeScript- Como ferramenta para desenvolvimento do nosso backend,<br>
   foi escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js;<br>
 - ReactJS - foi escolhido o ReactJS, por todo seu poder com o uso de estados globais,<br> 
   componentização e pela documentação robusta.
-
    <br/>
 
-#### Contribuições Pessoais
+## Contribuições Pessoais
  * Contribui com a documentação do projeto.
  * Desenvolvimento do Burndown das Sprints.
  * Desenvolvimento do GitHub do projeto.
@@ -39,7 +34,7 @@ visualizar graficamente as informações.
  * Desenvolvimento da programação do site.
  * Contribui também removendo as barreiras entre o desenvolvimento e o cliente.
 
-#### Hard Skills
+## Hard Skills
 * React - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
 Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
 estilização, criação de listas;<br>
@@ -50,10 +45,9 @@ Como funciona: É uma ferramenta de algo que você só pode executar no navegado
 Consigo utilizar estes  conhecimentos com ajuda de videos explicativos;<br>
 
 * TypeScript - O TypeScript é um superset que serve para potencializar a linguagem JavaScript.<br>
-A diferença é que o TypeScript aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não.<br>   
+A diferença é que o TypeScript aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não.<br>  
 
-
-#### Soft Skills <br>
+## Soft Skills <br>
 * <b> Trabalho em Equipe e Comunicação </b>
 
 Minhas habilidades em Soft Skills, foram aprimoradas com a aplicação do Projeto Integrador.<br>
@@ -65,6 +59,4 @@ A maior parte do tempo eu procurava deixar a equipe ciente de que estávamos tod
 Eu como Scrum Master procurava manter a equipe com mais “leveza” e assim proporcionar a criatividade<br> e a motivação de cada um.<br><br> 
 No meu ponto de vista pessoal eu consegui ter uma melhora significativa no que diz respeito a trabalho<br> em equipe e comunicação.<br>
 Particularmente foi um grande desafio pessoal de muito aprendizado e  sou grata por todos os integrantes<br> da equipe que contribuíram para o desenvolvimento do sistema pois conseguimos cumprir a responsabilidade<br> assumida.<br>
-Então identifico em mim como habilidades interpessoais, o Trabalho em Equipe e a Comunicação.  
-
-
+Então identifico em mim como habilidades interpessoais, o Trabalho em Equipe e a Comunicação.

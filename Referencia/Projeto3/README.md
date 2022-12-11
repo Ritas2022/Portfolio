@@ -8,7 +8,7 @@
 </div>
 
 
-### Em 2021-2
+## Em 2021-2
 Desafio proposto foi desenvolver uma aplicação de gestão de relacionamento com o cliente 
 para organização dos processos comerciais, oferecendo suporte adequado ás áreas de venda 
 e negócios para a empresa parceira. 
@@ -24,25 +24,24 @@ Empresa parceira IonicHealth.
 
 [Visualizar GitHub do Projeto](https://github.com/Ritas2022/api-sem3-target-crm.git)
 
-#### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Node.js TypeScript- Como ferramenta para desenvolvimento do backend;
 - HTML - Linguagem de marcação utilizada na construção das páginas;
 - CSS -  Linguagem de estilização utilizada para conceitos de estilos;
 - ReactJS - Poder com o uso de estados globais,componentização e pela documentação robusta.<br> 
 
-#### Contribuições Pessoais
+## Contribuições Pessoais
 Contribui com a parte dos botões: nova negociação, novo pipeline, editar pipeline, deletar pipeline.<br>
 Na tela de usuario nas respostas as requisições, botão de logout, tela de contato
-respostas as requisições, tela company. 
-  
+respostas as requisições, tela company.  
 
-#### Hard Skills
+## Hard Skills
 - Node.js TypeScript- Sei fazer com ajuda; 
 - HTML - Sei fazer;
 - CSS -  Sei fazer;
-- React - Sei fazer com ajuda .
+- React - Sei fazer com ajuda.
 
-#### Soft Skills
+## Soft Skills
 <b>Resiliência:</b> <br>
 Pelo fato de já ter vindo de uma formação de equipe e logo depois ter que me adaptar novamente.
