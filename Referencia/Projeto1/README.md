@@ -39,7 +39,7 @@ Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.
 
 #### Hard Skills
 - WordPress: É uma ferramenta que facilita a administração, não somente de blog e sites<br>, mas também de lojas virtuais e outras aplicações web.<br>
-Os conhecimentos que eu adquiri utilizando está ferramenta foram criação de blogs
+Os conhecimentos que eu adquiri utilizando está ferramenta foram criação de blogs<br>
 partindo do zero, inserir imagens, instalação de plugins para habilitar as funcionalidades .<br> 
 
 - HTML - É uma linguagem de marcação de hipertexto.<br>
