@@ -34,12 +34,7 @@
   Conhecimentos adquiridos ao longo do curso proporcionadado pela fatec.<br>
 
   Linguagem de Programação: 
-  * PYTHON
-  * C
-  * CSS
-  * HTML
-  * JAVASCRIPT
-  * REACT NATIVE.
+   PYTHON, C, CSS, HTML, JAVASCRIPT, REACT NATIVE.
   <br>
 
   Prototipação: FIGMA.<br>
