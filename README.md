@@ -12,15 +12,10 @@
 
   ## Experiência:
 
-   * Atualmente trabalho na empresa Atacadão - SJC, como Auxiliar de Informática.<br>
-   * Iniciei trabalhando como operadora de Caixa no período de 16/10/2013 a 30/09/2019.<br>
-   * Atualmente não estou estagiando na área na qual estudo.
-
-    
-<div align=center>
+   * Atualmente trabalho na empresa Atacadão - SJC, como Auxiliar de Informática.<br>     
+<div align=center>ss
    <h2>Meus Projetos</h2>
     </div>
-
 
 1) [Desenvolvimento de um site para produtos educacionais.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto1) - 2020;
 2) [Aplicação para solucionar problemas causados por fontes de dados diferentes](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto2)-2021;
@@ -44,10 +39,6 @@
   Noções Basicas de Hardware.<br>
 
   Noções Basicas de Redes de Computadores.<br>
-
-
-
-
 
   ## Contatos
 * [GIT](https://github.com/ritas2022)
