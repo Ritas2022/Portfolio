@@ -5,8 +5,6 @@
   <img src="" width=400 alt="" />
  </div>
 
-
-
 ## Em 2022-2
 Desafio criação de uma aplicação mobile para coleta de dados públicos,para auxilio
 da secretaria de obras e serviços publicos.<br>
@@ -21,10 +19,12 @@ Como representande da empresa o Prof.Gerson Neto.
 
 ## Tecnologias Utilizadas
 
-- React Native - 
-- JavaScript - 
-- Node.Js - 
-- MongoDB - 
+- React Native - Utilizado pela versatilidade e praticidade no desenvolvimento híbrido
+para aplicações mobile.<br>
+- JavaScript - Tecnologia principal do desenvolvimento, utilizada para a estruturação
+do servidor/Back-end(NodeJS) e as funcionalidades do Front-end (React Native).<br>
+- Node.Js - Utilizado para o Back - end da aplicação, onde o Node tem por foco no desenvolvimento próximo ao servidor. <br>  
+- MongoDB - Banco de Dados não relacionais, utilizado para armazenar os dados da aplicação em JSON. 
 
 ## Contribuições Pessoais
 Contribui na criação do protótipo do figma.<br>
