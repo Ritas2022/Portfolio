@@ -8,15 +8,14 @@
 </div>
 
 ## Em 2020-2
-O objetivo do nosso desafio foi a criação do site de vendas de aulas,com ênfase  na área da tecnologia da informação voltados para estudantes de ensino nível médio,superior,graduados e/ou professores, principalmente na área de tecnologia.
+* O objetivo do nosso desafio foi a criação de um site para produtos educacionais,<br>
+voltados para estudantes de ensino nível médio, superior, graduados.<br>   
+* Como solução foi desenvolvido um site com uma interface simples, amigavél e intuitiva.<br>
+Apresentando como diferencial uma interface para saldo de crédito, carrinho de compras,<br>relatórios de vendas. Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.  
 
 ## Parceiro Acadêmico
-A Empresa Parceira foi representada pelo Prof.º Antonio Egydio.<br>
-Como solução para o cliente foi desenvolvido um site com uma interface simples, amigavél e intuitiva.<br>
-Apresentando como diferencial uma Interface para saldo de crédito, carrinho de compras, Relatório de Vendas. <br>
-Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno. 
-
-
+Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>.<br>
+Como representante da empresa o Prof.Antonio Egydio.
 
 [Visualizar GitHub do Projeto](https://github.com/Ritas2022/ProjetoIntegrador01)
 
