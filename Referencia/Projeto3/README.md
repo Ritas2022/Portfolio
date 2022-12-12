@@ -19,7 +19,7 @@ e negócios para a empresa parceira.<br>
 * Visualizar as negociações em um dashboard.<br> 
 
 ## Parceiro Acadêmico
-Empresa parceira <a href="https://www.visionaespacial.com.br/">Visiona</a>.<br>
+Empresa parceira <a href="https://pt-br.ionic.health/">IonicHealth</a>.<br>
 
 [Visualizar GitHub do Projeto](https://github.com/Ritas2022/api-sem3-target-crm.git)
 
