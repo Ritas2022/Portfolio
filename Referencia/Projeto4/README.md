@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/73767256/168936746-33176a30-e4c1-454d-a2df-84937bbe9029.gif" width=200 alt="" />
  
   </div>
-s
+
 ## Em 2022-1
 Desafio criação de um aplicativo para produtores rurais.<br>
 Estas informações consistem em dados alfa númericos e 
