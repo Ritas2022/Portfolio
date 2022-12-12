@@ -48,6 +48,6 @@ outra ferramenta com acesso por meio da web.<br>
 Tenho conhecimento básico nesta linguagem;<br> 
 - PostGreSql- É uma ferramenta que atua como sistema de gerenciamento de banco de dados relacionados.<br>
 Este sistema permite a utilização de operadores, estruturas de dados, tipagens e métodos 
-de acesso definidos pelo próprio programador.
+de acesso definidos pelo próprio programador.<br>
 O básico para começar a utilizar o PostGreSql é saber inglês.
 Consigo utilizar está ferramenta com a ajuda de videos explicativos.
