@@ -9,7 +9,7 @@
 ## Em 2022-1
 Desafio criação de um aplicativo para produtores rurais.<br>
 Estas informações consistem em dados alfa númericos e 
-imagens georreferenciadas pelo GPS do celular.<br>
+imagens georreferenciadas pelo GPS do cselular.<br>
 Como solução:Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
 estatisticas<br> sobre sua produção, comparando - a com dados históricos acessados
 de APIs públicas e informáções atuais de outros usuários.
@@ -46,7 +46,7 @@ estilização, criação de listas;<br>
 Trata de de sistema que funcionam em navegadores, como plataforma de gestão e qualquer 
 outra ferramenta com acesso por meio da web.<br>
 Tenho conhecimento básico nesta linguagem;<br> 
-- PostGreSql- É uma ferramenta que atua como sistema de gerenciamento de banco de dados relacionados<br>.
+- PostGreSql- É uma ferramenta que atua como sistema de gerenciamento de banco de dados relacionados.<br>
 Este sistema permite a utilização de operadores, estruturas de dados, tipagens e métodos 
 de acesso definidos pelo próprio programador.
 O básico para começar a utilizar o PostGreSql é saber inglês.
