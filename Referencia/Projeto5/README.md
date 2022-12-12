@@ -2,7 +2,7 @@
 
 <div align=center>
  <h3>OP - Ocorrências Públicas</h3>
-  <img src="https://user-images.githubusercontent.com/111800315/207038303-1d02eec2-2914-41eb-8789-012d2c0666e0.gif" width=400 alt="" />
+  <img src="https://user-images.githubusercontent.com/111800315/207038303-1d02eec2-2914-41eb-8789-012d2c0666e0.gif" width=200 alt="" />
  </div>
 
 ## Em 2022-2
