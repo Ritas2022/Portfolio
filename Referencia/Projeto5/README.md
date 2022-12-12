@@ -31,7 +31,7 @@ Contribui na criação do protótipo do figma.<br>
 Contribui na criação das telas do Walkthrough.
 ## Hard Skills
 
-- Figma - É uma ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo.
+- Figma - É uma ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo.<br>
 Tenho facilidade em utilizar esta ferramenta.<br>
 
 - ReactNative -É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
@@ -39,13 +39,13 @@ Meus conecimentos adquiridos são adição de imagens e botõe, criação de com
 estilização, criação de listas;<br>
 
 - JavaScript -É a linguagem principal para trabalhar com aplicações Web.<br>
-Trata de de sistema que funcionam em navegadores, como plataforma de gestão e qualquer 
+Trata de sistema que funcionam em navegadores, como plataforma de gestão e qualquer 
 outra ferramenta com acesso por meio da web.<br>
 Tenho conhecimento básico nesta linguagem;<br>
 
 - MongoDB - O MongoDb é um banco de dados orientado a documento que possui 
 código aberto (open source) e foi projetado para armazenar uma grande escala de dados,
-além de permitir que se trabalhe de forma eficiente com grande volumes de informações.
+além de permitir que se trabalhe de forma eficiente com grande volumes de informações.<br>
 Consigo utilizar com ajuda de videos explicativos.<br>
 
 - NodeJs -É um ambiente de execução JavaScript, linguagem padrão de manipulação
