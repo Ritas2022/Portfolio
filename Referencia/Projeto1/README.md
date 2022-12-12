@@ -11,7 +11,7 @@
 * O objetivo do nosso desafio foi a criação de um site para produtos educacionais,<br>
 voltados para estudantes de ensino nível médio, superior, graduados.<br>   
 * Como solução foi desenvolvido um site com uma interface simples, amigavél e intuitiva.<br>
-Apresentando como diferencial uma interface para saldo de crédito, carrinho de compras,<br>relatórios de vendas. Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.  
+Apresentando como diferencial uma interface para saldo de crédito, carrinho de compras,<br>relatórios de vendas.<br> Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.  
 
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>.<br>
