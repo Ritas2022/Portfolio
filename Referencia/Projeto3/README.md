@@ -11,16 +11,15 @@
 ## Em 2021-2
 Desafio proposto foi desenvolver uma aplicação de gestão de relacionamento com o cliente 
 para organização dos processos comerciais, oferecendo suporte adequado ás áreas de venda 
-e negócios para a empresa parceira. 
-
-
-## Parceiro Acadêmico
-Empresa parceira IonicHealth.
+e negócios para a empresa parceira.<br>
 * Como solução desenvolvemos um sistema para organizar e editar contatos.<br>
 * Realizar cadastro e gestão de Pipeline.<br>
 * Realizar o cadastro e a gestão de Negociação.<br>
 * Realizar o monitoramento e acompanhamento de clientes.<br>
-* Visualizar as negociações em um dashboard.<br>
+* Visualizar as negociações em um dashboard.<br> 
+
+## Parceiro Acadêmico
+Empresa parceira <a href="https://www.visionaespacial.com.br/">Visiona</a>.<br>
 
 [Visualizar GitHub do Projeto](https://github.com/Ritas2022/api-sem3-target-crm.git)
 
@@ -37,10 +36,22 @@ Na tela de usuario nas respostas as requisições, botão de logout, tela de con
 respostas as requisições, tela company.  
 
 ## Hard Skills
-- Node.js TypeScript- Sei fazer com ajuda; 
-- HTML - Sei fazer;
-- CSS -  Sei fazer;
-- React - Sei fazer com ajuda.
+- Node.js -É um ambiente de execução JavaScript, linguagem padrão de manipulação
+de paginas html criada em 1995.<br>
+Como funciona: É uma ferramenta de algo que você só pode executar no navegador para algo que pode ser executado em sua máquina como uma aplicação independente.<br>
+Consigo utilizar estes  conhecimentos com ajuda de videos explicativos;<br>
+
+- HTML - É uma linguagem de marcação de hipertexto.<br>
+Esta ferramenta permite a construção de websites e a inserção de novos conteúdos,<br>
+como videos e imagens.
+Tenho conhecimento na utilização das tags<br>
+- CSS - É uma linguagem baseada em regras.<br>
+Onde você define regras especificando grupos de estilo que devem ser aplicados<br>
+para elementos particulares ou grupos de elementos na pagina web<br>
+Os conhecimentos que eu adquiri em css,posicionamento dos elementos, fontes,cores.<br>
+- React - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
+Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
+estilização, criação de listas;<br>
 
 ## Soft Skills
 <b>Resiliência:</b> <br>
