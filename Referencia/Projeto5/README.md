@@ -16,17 +16,17 @@ Como solução criamos uma aplicação mobile, onde o cliente tem por objetivo r
 problemas em sua cidade possibilitando assim: reportar uma ocorrência, visualizar as ocorrências, editar os dados cadastrais.    
 
 ## Parceiro Acadêmico
-Nosso parceiro acadêmico foi a Fatec Prof.Jessen Vidal.
+Nosso parceiro acadêmico foi a Fatec Prof.Jessen Vidal.<br>
 Como representande da empresa o Prof.Gerson Neto.
 
 [Visualizar GitHub do Projeto]()
 
 ## Tecnologias Utilizadas
 
-React Native - 
-JavaScript - 
-Node.Js - 
-MongoDB - 
+- React Native - 
+- JavaScript - 
+- Node.Js - 
+- MongoDB - 
 
 ## Contribuições Pessoais
 Contribui na criação do protótipo do figma.
