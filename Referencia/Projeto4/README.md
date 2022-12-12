@@ -5,18 +5,19 @@
   <img src="https://user-images.githubusercontent.com/73767256/168936746-33176a30-e4c1-454d-a2df-84937bbe9029.gif" width=200 alt="" />
  
   </div>
-
+s
 ## Em 2022-1
 Desafio criação de um aplicativo para produtores rurais.<br>
 Estas informações consistem em dados alfa númericos e 
-imagens georreferenciadas pelo GPS do celular.
+imagens georreferenciadas pelo GPS do celular.<br>
+Como solução:Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
+estatisticas<br> sobre sua produção, comparando - a com dados históricos acessados
+de APIs públicas e informáções atuais de outros usuários.
 
 ## Parceiro Acadêmico
 
 Empresa Parceira Visiona - Tecnologia Espacial.<br>
-Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
-estatisticas<br> sobre sua produção, comparando - a com dados históricos acessados
-de APIs públicas e informáções atuais de outros usuários.
+
 
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/API-4-SrSoja-2022-1.git)
 
@@ -39,8 +40,13 @@ o trabalho que me comprometi em desenvolver.
 
 ## Soft Skills
 
-- ReactNative - Sei fazer com ajuda;
-- JavaScript- Sei fazer com ajuda ;
+- ReactNative - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
+Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
+estilização, criação de listas;<br>
+- JavaScript-É a linguagem principal para trabalhar com aplicações Web.<br>
+Trata de de sistema que funcionam em navegadores, como plataforma de gestão e qualquer 
+outra ferramenta com acesso por meio da web.<br>
+Tenho conhecimento básico nesta linguagem;<br> 
 - PostGreSql- É uma ferramenta que atua como sistema de gerenciamento de banco de dados relacionados<br>.
 Este sistema permite a utilização de operadores, estruturas de dados, tipagens e métodos 
 de acesso definidos pelo próprio programador.
