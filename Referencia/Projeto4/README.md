@@ -16,8 +16,7 @@ de APIs públicas e informáções atuais de outros usuários.
 
 ## Parceiro Acadêmico
 
-Empresa Parceira Visiona - Tecnologia Espacial.<br>
-
+Empresa Parceira Visiona - <a href="https://www.visionaespacial.com.br/">Visiona</a><br>
 
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/API-4-SrSoja-2022-1.git)
 
