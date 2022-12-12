@@ -1,4 +1,4 @@
-## Projeto - Ocorrências Publicas
+## Projeto - Ocorrências Públicas
 
 <div align=center>
  <h3>OP - Ocorrências Públicas</h3>
@@ -35,7 +35,7 @@ Contribui na criação das telas do Walkthrough.
 Tenho facilidade em utilizar esta ferramenta.<br>
 
 - ReactNative -É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
-Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
+Meus conhecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
 estilização, criação de listas;<br>
 
 - JavaScript -É a linguagem principal para trabalhar com aplicações Web.<br>

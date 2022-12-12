@@ -50,7 +50,7 @@ Onde você define regras especificando grupos de estilo que devem ser aplicados<
 para elementos particulares ou grupos de elementos na pagina web<br>
 Os conhecimentos que eu adquiri em css,posicionamento dos elementos, fontes,cores.<br>
 - React - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
-Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
+Meus conhecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
 estilização, criação de listas;<br>
 
 ## Soft Skills

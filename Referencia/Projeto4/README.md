@@ -34,7 +34,7 @@ Contribui com o desenvolvimento do BurnDown.
 ## Hard Skills
 
 - ReactNative - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
-Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
+Meus conhecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
 estilização, criação de listas;<br>
 - JavaScript-É a linguagem principal para trabalhar com aplicações Web.<br>
 Trata de de sistema que funcionam em navegadores, como plataforma de gestão e qualquer 
