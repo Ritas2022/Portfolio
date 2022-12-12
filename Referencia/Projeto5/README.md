@@ -29,14 +29,14 @@ Como representande da empresa o Prof.Gerson Neto.
 - MongoDB - 
 
 ## Contribuições Pessoais
-Contribui na criação do protótipo do figma.
+Contribui na criação do protótipo do figma.<br>
 Contribui na criação das telas do Walkthrough.
 ## Hard Skills
 
-Figma - 
-ReactNative -
-JavaScript -
-MongoDB -
-NodeJs -
+- Figma - 
+- ReactNative -
+- JavaScript -
+- MongoDB -
+- NodeJs -
 
 ## Soft Skills
