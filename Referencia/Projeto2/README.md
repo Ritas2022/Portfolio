@@ -41,7 +41,7 @@ estilização, criação de listas;<br>
 
 * Node.Js - É um ambiente de execução JavaScript, linguagem padrão de manipulação
 de paginas html criada em 1995.<br>
-Como funciona: É uma ferramenta de algo que você só pode executar no navegador para algo que pode ser executado em sua máquina como uma aplicação independente
+Como funciona: É uma ferramenta de algo que você só pode executar no navegador para algo que pode ser executado em sua máquina como uma aplicação independente.<br>
 Consigo utilizar estes  conhecimentos com ajuda de videos explicativos;<br>
 
 * TypeScript - O TypeScript é um superset que serve para potencializar a linguagem JavaScript.<br>
