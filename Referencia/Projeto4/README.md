@@ -32,12 +32,6 @@ Também contribui com o desenvolvimento de algumas telas do projeto.<br>
 Contribui com o desenvolvimento do BurnDown. 
 
 ## Hard Skills
-Suportar críticas: Neste projeto eu tive bastante dificuldade em acompanhar 
-a equipe<br> por motivos pessoais.
-Então tive que saber lidar com algumas criticas, mas consegui entregar <br>
-o trabalho que me comprometi em desenvolver.
-
-## Soft Skills
 
 - ReactNative - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
 Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
@@ -51,3 +45,10 @@ Este sistema permite a utilização de operadores, estruturas de dados, tipagens
 de acesso definidos pelo próprio programador.<br>
 O básico para começar a utilizar o PostGreSql é saber inglês.<br>
 Consigo utilizar está ferramenta com a ajuda de videos explicativos.
+
+## Soft Skills
+
+Suportar críticas: Neste projeto eu tive bastante dificuldade em acompanhar 
+a equipe<br> por motivos pessoais.
+Então tive que saber lidar com algumas criticas, mas consegui entregar <br>
+o trabalho que me comprometi em desenvolver.
