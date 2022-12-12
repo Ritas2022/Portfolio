@@ -10,7 +10,7 @@
 Desafio criação de um aplicativo para produtores rurais.<br>
 Estas informações consistem em dados alfa númericos e 
 imagens georreferenciadas pelo GPS do cselular.<br>
-Como solução:Através dos dados de diversos usuários, o App fornecerá ao cliente informações 
+Como solução: através dos dados de diversos usuários, o App fornecerá ao cliente informações 
 estatisticas<br> sobre sua produção, comparando - a com dados históricos acessados
 de APIs públicas e informáções atuais de outros usuários.
 
