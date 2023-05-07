@@ -2,7 +2,7 @@
 
 <div align=center>
  <h3>OP - </h3>
-  <img src="https://user-images.githubusercontent.com/111800315/207038303-1d02eec2-2914-41eb-8789-012d2c0666e0.gif" width=150 alt="" />
+  <img src="" width=150 alt="" />
  </div>
 
 ## Em 2023-1
