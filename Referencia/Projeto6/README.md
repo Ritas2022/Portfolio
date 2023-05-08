@@ -10,7 +10,7 @@ Apresentar de forma intuitiva e fluida, uma ferramenta de comparação <br>
 de preços utilizando os dados fornecidos através do Open Finance. 
 
 ## Parceiro Acadêmico
-Nosso parceiro acadêmico foi a uma instituição de serviços financeiros.</a><br>
+Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br>
 
 [Visualizar GitHub do Projeto](https://github.com/Sarah781/API-6-SeeTax)
 
