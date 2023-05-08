@@ -1,12 +1,13 @@
-## Projeto - 
+## Projeto - SeeTax
 
 <div align=center>
- <h3>OP - </h3>
+ <h3>SeeTax - Comparador e analisador de tarifas bancárias </h3>
   <img src="" width=150 alt="" />
  </div>
 
 ## Em 2023-1
-
+Apresentar de forma intuitiva e fluida, uma ferramenta de comparação <br>
+de preços utilizando os dados fornecidos através do Open Finance. 
 
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal.</a><br>
