@@ -10,14 +10,17 @@ Apresentar de forma intuitiva e fluida, uma ferramenta de comparação <br>
 de preços utilizando os dados fornecidos através do Open Finance. 
 
 ## Parceiro Acadêmico
-Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal.</a><br>
-Como representande da empresa o Prof.Gerson Neto.
+Nosso parceiro acadêmico foi a uma instituição de serviços financeiros.</a><br>
 
-[Visualizar GitHub do Projeto](https://github.com/Jonathan-Assis/API-5-OP-2022-2.git)
+[Visualizar GitHub do Projeto](https://github.com/Sarah781/API-6-SeeTax)
 
 ## Tecnologias Utilizadas
 
-
+- Vue.js- FrameWork de JavaScript,  .<br>
+- TS - .<br>
+- SpringBoot -. <br>  
+- Java - . 
+- Python - . 
 
 ## Contribuições Pessoais
 
