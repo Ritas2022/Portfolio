@@ -22,7 +22,7 @@
 3) [Aplicação para gestão de relacionamento dos processos comercias](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto3)-2021;
 4) [Criação de um Aplicativo colaborativo para produtores rurais.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto4)-2022;
 5) [Criação de uma aplicação mobile para coleta de dados público](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto5)-2022;
-6) [Sistema para acompanhamento de Tarifas](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto6)-2023;
+6) [Sistema para acompanhamento de Tarifas Bancárias](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto6)-2023;
   </div>
 
   ## Meus Principais Conhecimentos
