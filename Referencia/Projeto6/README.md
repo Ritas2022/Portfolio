@@ -2,7 +2,7 @@
 
 <div align=center>
  <h3>SeeTax - Comparador e analisador de tarifas bancárias </h3>
-  <img src="https://user-images.githubusercontent.com/111800315/236898876-10a4ae3f-43cb-4120-a598-b519c18ff03c.gif" width=150 alt="" />
+  <img src="https://user-images.githubusercontent.com/111800315/236898876-10a4ae3f-43cb-4120-a598-b519c18ff03c.gif" width=300 alt="" />
  </div>
 
 ## Em 2023-1
