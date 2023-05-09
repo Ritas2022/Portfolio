@@ -26,11 +26,11 @@ Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br
 Como  Scrum Master protejo o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.Facilito a Reunião Diária, sou responsável pela remoção de quaisquer obstáculos observados pelo time durante estas reuniões.
 
 ## Hard Skills
-Figma- sei fazer com autonomia
-VueJs- Adquirindo conhecimento
-Java- Adquirindo conhecimento
-Spring Adquirindo conhecimento 
-Python- Adquirindo conhecimento
+-Figma- sei fazer com autonomia
+-VueJs- Adquirindo conhecimento
+-Java- Adquirindo conhecimento
+-Spring Adquirindo conhecimento 
+-Python- Adquirindo conhecimento
 
 ## Soft Skills
  <b> Trabalho em Equipe e Comunicação </b><br>
