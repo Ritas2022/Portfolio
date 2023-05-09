@@ -16,11 +16,11 @@ Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br
 
 ## Tecnologias Utilizadas
 
-- Vue.js- FrameWork de JavaScript,  .<br>
-- TS - .<br>
-- SpringBoot -. <br>  
-- Java - . 
-- Python - . 
+- Vue.js- serve para criar aplicações SPA (Single Page Applications) e desenvolver vários outros formatos de interfaces com objetivo na interação e experiência do usuário  .<br>
+- TS -TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft que é uma extensão do JavaScript. Ela adiciona recursos avançados ao JavaScript, como a tipagem estática e interfaces, tornando mais fácil detectar e prevenir erros durante a fase de desenvolvimento. .<br>
+- SpringBoot -O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais. <br>  
+- Java -É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor. . 
+- Python - É uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).  . 
 
 ## Contribuições Pessoais
 
