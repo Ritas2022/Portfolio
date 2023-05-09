@@ -23,6 +23,7 @@ Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br
 - Python - É uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).  . 
 
 ## Contribuições Pessoais
+Como  Scrum Master protejo o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.<br> facilito a Reunião Diária, sou responsável pela remoção de quaisquer obstáculos observados pelo time durante estas reuniões.
 
 ## Hard Skills
 
