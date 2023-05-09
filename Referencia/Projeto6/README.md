@@ -31,4 +31,4 @@ Como  Scrum Master protejo o time, certificando-se de que os membros não se com
 
 ## Soft Skills
  <b> Trabalho em Equipe e Comunicação </b><br>
- Adquiri uma melhora significativa no que diz respeito a trabalho<br> em equipe e comunicação.<br>
+ Adquiri uma melhora significativa no que diz respeito a trabalho em equipe e comunicação.<br>
