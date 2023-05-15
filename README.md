@@ -5,7 +5,7 @@
     </div>
 
   ## Formação Acadêmica:
-  * Estudante do 5° semestre do curso de Analise e Desenvolvimento de Software.
+  * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Software.
 
   * Técnico em Informática.<br>
     Colégio Técnico Antonio Teixeira Fernandes - Univap (2022-2004)  
@@ -30,7 +30,10 @@
   Conhecimentos adquiridos ao longo do curso proporcionadado pela fatec.<br>
 
   Linguagem de Programação: 
-   PYTHON, C, CSS, HTML, JAVASCRIPT, REACT NATIVE.
+   PYTHON, C,JAVASCRIPT, REACT NATIVE.<br/>
+  Linguagem de Marcação:
+   CSS, HTML
+
   <br>
 
   Prototipação: FIGMA.<br>
