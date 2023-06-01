@@ -22,10 +22,12 @@ Empresa Parceira Visiona - <a href="https://www.visionaespacial.com.br/">Visiona
 
 ## Tecnologias Utilizadas
 
+|Tecnologia|Como foi Utilizada|
 |-|:-|
 |<img src="" height="100" title=""/>|.|
 |<img src="" height="90" title=""/>|.|
 |<img src="" height="90" title=""/>|.|
+
 
 ## Contribuições Pessoais
 Contribui com a parte de organização do github.<br>
