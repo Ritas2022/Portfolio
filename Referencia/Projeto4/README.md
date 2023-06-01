@@ -22,9 +22,10 @@ Empresa Parceira Visiona - <a href="https://www.visionaespacial.com.br/">Visiona
 
 ## Tecnologias Utilizadas
 
-- ReactNative - Praticidade no desenvolvimento híbrido e aplicativos mobile;
-- JavaScript- Funcionamento virtual em aplicações IOS e Android ;
-- PostGreSql-  Suporte nativo ao JSON, facilitando o desenvolvimento.
+|-|:-|
+|<img src="" height="100" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
 
 ## Contribuições Pessoais
 Contribui com a parte de organização do github.<br>
