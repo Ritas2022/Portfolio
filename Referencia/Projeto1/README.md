@@ -21,9 +21,11 @@ Como representante da empresa o Prof.Antonio Egydio.
 
 ## Tecnologias Utilizadas
 
-- WordPress - Provedor de hospedagem do site criado e estilização;
-- HTML - Linguagem de marcação utilizada na construção das páginas;
-- CSS -  Linguagem de estilização utilizada para conceitos de estilos.
+|Tecnologia|Como foi Utilizada|
+|-|:-|
+|<img src="" height="100" title="HTML/CSS"/>|HTLM - Linguagem de marcação de texto utilizada para a estruturação das telas do sistema. <br> CSS - Linguagem de estilização, definindo a aparência das telas.|
+|<img src="" height="90" title="PHP"/>|Linguagem de programação web, amplamente implementado nas operações back-end do sistema.|
+|<img src="" height="90" title="MySQL"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados do sistema.|
 
 ## Contribuições Pessoais
 * Contribui com a parte do Plano e Regras de Negócio Final.<br>
