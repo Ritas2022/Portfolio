@@ -20,10 +20,12 @@ Empresa parceira <a href="https://www.gsw.com.br/">GSW Soluções Integradas</a>
 
 ## Tecnologias Utilizadas
 
-- Node.js TypeScript- Como ferramenta para desenvolvimento do nosso backend,<br>
-  foi escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js;<br>
-- ReactJS - foi escolhido o ReactJS, por todo seu poder com o uso de estados globais,<br> 
-  componentização e pela documentação robusta.
+|Tecnologia|Como foi Utilizada|
+|-|:-|
+|<img src="" height="100" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
+
    <br/>
 
 ## Contribuições Pessoais
