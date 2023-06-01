@@ -19,7 +19,7 @@ Como representande da empresa o Prof.Gerson Neto.
 
 ## Tecnologias Utilizadas
 
-|Tecnologia|Como foi Utilizada|s
+|Tecnologia|Como foi Utilizada|
 |-|:-|
 |<img src="" height="100" title=""/>|.|
 |<img src="" height="90" title=""/>|.|
