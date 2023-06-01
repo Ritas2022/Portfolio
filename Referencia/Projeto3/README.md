@@ -25,10 +25,12 @@ Empresa parceira <a href="https://pt-br.ionic.health/">IonicHealth</a>.<br>
 
 ## Tecnologias Utilizadas
 
-- Node.js TypeScript- Como ferramenta para desenvolvimento do backend;
-- HTML - Linguagem de marcação utilizada na construção das páginas;
-- CSS -  Linguagem de estilização utilizada para conceitos de estilos;
-- ReactJS - Poder com o uso de estados globais,componentização e pela documentação robusta.<br> 
+|Tecnologia|Como foi Utilizada|
+|-|:-|
+|<img src="" height="100" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
+<br> 
 
 ## Contribuições Pessoais
 Contribui com a parte dos botões: nova negociação, novo pipeline, editar pipeline, deletar pipeline.<br>
