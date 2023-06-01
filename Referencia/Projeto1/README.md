@@ -25,7 +25,7 @@ Como representante da empresa o Prof.Antonio Egydio.
 |-|:-|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/2891daee-019b-47ea-a37b-017f8922c4d4" height="100" title=""/>|.|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/f1361fed-4be2-4358-8126-973416034017" height="90" title=""/>|.|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/ce00f08f-9112-482c-ada5-260528c1141b" height="100" title=""/>|.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/ce00f08f-9112-482c-ada5-260528c1141b" height="90" title=""/>|.|
 
 ## Contribuições Pessoais
 * Contribui com a parte do Plano e Regras de Negócio Final.<br>
