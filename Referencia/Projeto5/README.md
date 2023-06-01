@@ -19,12 +19,10 @@ Como representande da empresa o Prof.Gerson Neto.
 
 ## Tecnologias Utilizadas
 
-- React Native - Utilizado pela versatilidade e praticidade no desenvolvimento híbrido
-para aplicações mobile.<br>
-- JavaScript - Tecnologia principal do desenvolvimento, utilizada para a estruturação
-do servidor/Back-end(NodeJS) e as funcionalidades do Front-end (React Native).<br>
-- Node.Js - Utilizado para o Back - end da aplicação, onde o Node tem por foco no desenvolvimento próximo ao servidor. <br>  
-- MongoDB - Banco de Dados não relacionais, utilizado para armazenar os dados da aplicação em JSON. 
+|-|:-|
+|<img src="" height="100" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
+|<img src="" height="90" title=""/>|.|
 
 ## Contribuições Pessoais
 Contribui na criação do protótipo do figma.<br>
