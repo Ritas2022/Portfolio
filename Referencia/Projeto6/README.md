@@ -16,7 +16,7 @@ Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br
 
 ## Tecnologias Utilizadas
 
-|Tecnologia|Como foi Utilizada|s
+|Tecnologia|Como foi Utilizada|
 |-|:-|
 |<img src="" height="100" title=""/>|.|
 |<img src="" height="90" title=""/>|.|
