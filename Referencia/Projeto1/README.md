@@ -23,9 +23,8 @@ Como representante da empresa o Prof.Antonio Egydio.
 
 |Tecnologia|Como foi Utilizada|
 |-|:-|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/2891daee-019b-47ea-a37b-017f8922c4d4" height="100" title="WordPress"/>|.|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/f9b39075-4628-4485-a26c-8b954368b684" height="120" title="HTML-CSS"/>|.|
-
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/2891daee-019b-47ea-a37b-017f8922c4d4" height="100" title="WordPress"/>|Utilizado para definir ações do painel do administrador.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/f9b39075-4628-4485-a26c-8b954368b684" height="120" title="HTML-CSS"/>|HTLM - Linguagem de marcação de texto utilizada na construção das páginas. <br> CSS - Linguagem de estilização, definição de cores e aparência das telas.|
 
 ## Contribuições Pessoais
 * Contribui com a parte do Plano e Regras de Negócio Final.<br>
