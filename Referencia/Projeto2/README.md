@@ -22,7 +22,7 @@ Empresa parceira <a href="https://www.gsw.com.br/">GSW Soluções Integradas</a>
 
 |Tecnologia|Como foi Utilizada|
 |-|:-|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/1c0a693b-3722-4ba0-8189-ff4b3ccb1e6f" height="90" title=""/>|.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/c4336ebb-34cc-4b79-af34-52733c44669f" height="90" title=""/>|.|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/54449233-45f0-4255-9da7-d0e2d95904a8" height="90" title=""/>|.|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/cd19c9d2-587e-46e0-814c-67a0f2a5e262" height="90" title=""/>|.|
 
