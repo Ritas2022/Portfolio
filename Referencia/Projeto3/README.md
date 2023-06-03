@@ -27,9 +27,12 @@ Empresa parceira <a href="https://pt-br.ionic.health/">IonicHealth</a>.<br>
 
 |Tecnologia|Como foi Utilizada|
 |-|:-|
-|<img src="" height="100" title=""/>|.|
-|<img src="" height="90" title=""/>|.|
-|<img src="" height="90" title=""/>|.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/f9b39075-4628-4485-a26c-8b954368b684" height="120" title="HTML-CSS"/>|HTLM - Linguagem de marcação de texto utilizada na construção das páginas. <br> CSS - Linguagem de estilização, definição de cores e aparência das telas.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0411e69b-e643-4230-8ad6-c850380daa7c" height="90" title="NodeJS"/>|Utilizado como servidor da aplição.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/54449233-45f0-4255-9da7-d0e2d95904a8" height="90" title="TypeScript"/>|Ferramenta para desenvolvimento do backend da aplicação.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/d8139aed-2f42-4ed4-8c73-45bae51d4479" height="90" title="React"/>|Utilizado como framework para o Front-end da aplicação.|
+|<img src="" height="100" title="PostGreSQl"/>|Utilizado para definir ações do painel do administrador.|
+
 <br> 
 
 ## Contribuições Pessoais
