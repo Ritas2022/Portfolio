@@ -9,10 +9,10 @@
 
 ## Desafio e Solução 2020-2
 
-Desafio :Criar um site onde o cliente consiga efetuar a venda de conteúdos acadêmicos.<br>
+<b>Desafio:</b> Criar um site onde o cliente consiga efetuar a venda de conteúdos acadêmicos.<br>
 Como por exemplo: livros,videoaulas e pdfs voltados para a área de Tecnologia.
 
-Como solução: Criamos uma plataforma chamada Elite Academy.<br>
+<b>Como solução:</b> Criamos uma plataforma chamada Elite Academy.<br>
 Através deste site os clientes poderiam se cadastrar e fazer compras dos materiais didáticos.<br>
 Desenvolvemos uma tela onde os clientes poderiam visualizar uma lista com conteúdos e vantagens disponíveis na compra de determinados materiais de seu interesse.<br>
 Criamos uma funcionalidade onde o cliente teria a possibilidade de adicionar os conteúdos
