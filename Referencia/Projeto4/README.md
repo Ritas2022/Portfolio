@@ -23,14 +23,11 @@ Empresa Parceira Visiona - <a href="https://www.visionaespacial.com.br/">Visiona
 ## Tecnologias Utilizadas
 |Tecnologia|Como foi Utilizada|
 |-|:-|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0411e69b-e643-4230-8ad6-c850380daa7c" height="90" title="NodeJS"/>|.|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0b258506-dc93-43c9-86d5-ec4fd9f06bb3" height="90" title="JavaScript"/>|.|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/d8139aed-2f42-4ed4-8c73-45bae51d4479" height="90" title="React"/>|.|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/dcf01f7b-832a-4e99-b073-c7e1380d85cc" height="100" title="PostGreSQl"/>|.|
-|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/9d3d0c79-44f5-44c5-a1fa-f81437ba4230" height="100" title="SQlite"/>|.|
-
-
-
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0411e69b-e643-4230-8ad6-c850380daa7c" height="90" title="NodeJS"/>|Utilizado no backend da aplicação.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0b258506-dc93-43c9-86d5-ec4fd9f06bb3" height="90" title="JavaScript"/>|Utilizado na estruturação do servidor Backend.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/d8139aed-2f42-4ed4-8c73-45bae51d4479" height="90" title="React"/>|Utilizado no desenvolvimento da aplicação mobile.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/dcf01f7b-832a-4e99-b073-c7e1380d85cc" height="100" title="PostGreSQl"/>|Utilizado como gerenciador de banco de dados.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/9d3d0c79-44f5-44c5-a1fa-f81437ba4230" height="100" title="SQlite"/>|Utilizado como banco de dado.|
 
 ## Contribuições Pessoais
 Contribui com a parte de organização do github.<br>
