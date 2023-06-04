@@ -21,12 +21,15 @@ Empresa Parceira Visiona - <a href="https://www.visionaespacial.com.br/">Visiona
 [Visualizar GitHub do Projeto](https://github.com/ferreirarita/API-4-SrSoja-2022-1.git)
 
 ## Tecnologias Utilizadas
-
 |Tecnologia|Como foi Utilizada|
 |-|:-|
-|<img src="" height="100" title=""/>|.|
-|<img src="" height="90" title=""/>|.|
-|<img src="" height="90" title=""/>|.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0411e69b-e643-4230-8ad6-c850380daa7c" height="90" title="NodeJS"/>|Utilizado como servidor da aplição.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0b258506-dc93-43c9-86d5-ec4fd9f06bb3" height="90" title="JavaScript"/>|Ferramenta para desenvolvimento do backend da aplicação.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/d8139aed-2f42-4ed4-8c73-45bae51d4479" height="90" title="React"/>|Utilizado como framework para o Front-end da aplicação.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/dcf01f7b-832a-4e99-b073-c7e1380d85cc" height="100" title="PostGreSQl"/>|Utilizado para gerenciar o sistema de banco de dados.|
+|<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/9d3d0c79-44f5-44c5-a1fa-f81437ba4230" height="100" title="SQlite"/>|Utilizado para gerenciar o sistema de banco de dados.|
+
+
 
 
 ## Contribuições Pessoais
