@@ -7,11 +7,18 @@
   <a href="https://drive.google.com/file/d/171P9D6hfO-bxYBSApbL8MUAtkh-QTQEs/view?usp=sharing">Video da Apresentação do Projeto</a>
 </div>
 
-## Em 2020-2
-* O objetivo do nosso desafio foi a criação de um site para produtos educacionais,<br>
-voltados para estudantes de ensino nível médio, superior, graduados.<br>   
-* Como solução foi desenvolvido um site com uma interface simples, amigavél e intuitiva.<br>
-Apresentando como diferencial uma interface para saldo de crédito, carrinho de compras,<br>relatórios de vendas.<br> Conteúdos de dáticos atualizados tornando mais eficiente o estudo do aluno.  
+## Desafio e Solução 2020-2
+
+Desafio :Criar um site onde o cliente consiga efetuar a venda de conteúdos acadêmicos.<br>
+Como por exemplo: livros,videoaulas e pdfs voltados para a área de Tecnologia.
+
+Como solução: Criamos uma plataforma chamada Elite Academy.<br>
+Através deste site os clientes poderiam se cadastrar e fazer compras dos materiais didáticos.<br>
+Desenvolvemos uma tela onde os clientes poderiam visualizar uma lista com conteúdos e vantagens disponíveis na compra de determinados materiais de seu interesse.<br>
+Criamos uma funcionalidade onde o cliente teria a possibilidade de adicionar os conteúdos
+escolhidos em um carrinho de compras, consultar saldos de créditos disponíveis na plataforma, cadastrar-se na plataforma e finalizar suas compras.<br> 
+Estes são alguns exemplos do funcionamento da plataforma.   
+<br>
 
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>.<br>
