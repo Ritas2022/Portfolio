@@ -8,15 +8,16 @@
 </div>
 
 
-## Em 2021-2
-Desafio proposto foi desenvolver uma aplicação de gestão de relacionamento com o cliente 
-para organização dos processos comerciais, oferecendo suporte adequado ás áreas de venda 
-e negócios para a empresa parceira.<br>
-* Como solução desenvolvemos um sistema para organizar e editar contatos.<br>
-* Realizar cadastro e gestão de Pipeline.<br>
-* Realizar o cadastro e a gestão de Negociação.<br>
-* Realizar o monitoramento e acompanhamento de clientes.<br>
-* Visualizar as negociações em um dashboard.<br> 
+## Desafio e Solução 2021-2
+<b>Desafio:</b>Desenvolver uma aplicação web para gerenciar o relacionamento com os clientes.<br>
+Oferecendo suporte adequados nas áreas de vendas, organizando os processos comerciais.<br>  
+<b>Como solução:</b>Criamos uma aplicação web chamada Target - Business Solution.<br>
+Nesta aplicação desenvolvemos uma DashBoard onde é possível visualizar as negociações.<br>
+Fazer importação de arquivos com informações dos contatos.<br>
+Organizar e editar os contatos.<br>
+Realizar o cadastro e a gestão de Pipelines.<br>
+Realizar o cadastro das Negociações.<br>
+Realizar o monitoramento e acompanhamento de clientes.<br>
 
 ## Parceiro Acadêmico
 Empresa parceira <a href="https://pt-br.ionic.health/">IonicHealth</a>.<br>
