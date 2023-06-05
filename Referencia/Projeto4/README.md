@@ -7,13 +7,13 @@
   </div>
 
 ## Desafio e Solução 2022-1
-<b>Desafio:<b> Desenvolver uma aplicação Mobile para auxiliar, os produtores rurais
+<b>Desafio:</b> Desenvolver uma aplicação Mobile para auxiliar, os produtores rurais
 no controle de sua propriedade no plantio de soja.<br>
 Facilitando assim a visualização dos talhões de soja em sua fazenda.<br>
 Além de informações como preço da saca de soja em sua região,custo de produção de
 sementes,adubos, fertilizantes e agrotóxicos.<br>  
 
-<b>Como solução:<b> Desenvolvemos um aplicativo chamado - Sr.Soja.<br>
+<b>Como solução:</b> Desenvolvemos um aplicativo chamado - Sr.Soja.<br>
 Onde o produtor rural poderá cadastrar sua fazenda e talhões.<br>
 Cadastrar informações referente a seus dados de cultivo.<br>
 Efetuando o cadastro destas informações o produtor terá acesso a informações mais<br>
