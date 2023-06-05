@@ -11,7 +11,7 @@
 no controle de sua propriedade no plantio de soja.<br>
 Facilitando assim a visualização dos talhões de soja em sua fazenda.<br>
 Além de informações como preço da saca de soja em sua região,custo de produção de
-sementes,adubos, fertilizantes e agrotóxicos.<br>  
+sementes,<br>adubos, fertilizantes e agrotóxicos.<br>  
 
 <b>Como solução:</b> Desenvolvemos um aplicativo chamado - Sr.Soja.<br>
 Onde o produtor rural poderá cadastrar sua fazenda e talhões.<br>
@@ -19,7 +19,7 @@ Cadastrar informações referente a seus dados de cultivo.<br>
 Efetuando o cadastro destas informações o produtor terá acesso a informações mais
 claras e relevantes.<br>
 Como por exemplo:Previsões de Produtividade,Consulta do preço da saca em
-sua região,consulta do período de chuva, histórico de compras e vendas dos produtos.<br>       
+sua região,<br>consulta do período de chuva, histórico de compras e vendas dos produtos.<br>       
 
 ## Parceiro Acadêmico
 
