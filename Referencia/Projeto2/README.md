@@ -9,7 +9,7 @@
 
 ## Desafio e Solução  2021-1
 
-<b>Desafio:</b> Efetuar a unificação de dados, gerados por ferramentas distintas de gerenciamento de projetos como por exemplo (Trello e Jira).<br>
+<b>Desafio:</b> Unificar os dados, gerados por ferramentas distintas de gerenciamento de projetos como por exemplo (Trello e Jira).<br>
 Apresentar estas informações em uma única dashboard.<br>
 
 <b>Como solução:</b> Criamos uma aplicação chamada DashW.<br>
