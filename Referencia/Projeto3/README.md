@@ -9,9 +9,9 @@
 
 
 ## Desafio e Solução 2021-2
-<b>Desafio:</b>Desenvolver uma aplicação web para gerenciar o relacionamento com os clientes.<br>
+<b>Desafio:</b> Desenvolver uma aplicação web para gerenciar o relacionamento com os clientes.<br>
 Oferecendo suporte adequados nas áreas de vendas, organizando os processos comerciais.<br>  
-<b>Como solução:</b>Criamos uma aplicação web chamada Target - Business Solution.<br>
+<b>Como solução:</b> Criamos uma aplicação web chamada Target - Business Solution.<br>
 Nesta aplicação desenvolvemos uma DashBoard onde é possível visualizar as negociações.<br>
 Fazer importação de arquivos com informações dos contatos.<br>
 Organizar e editar os contatos.<br>
