@@ -16,8 +16,9 @@ sementes,adubos, fertilizantes e agrotóxicos.<br>
 <b>Como solução:</b> Desenvolvemos um aplicativo chamado - Sr.Soja.<br>
 Onde o produtor rural poderá cadastrar sua fazenda e talhões.<br>
 Cadastrar informações referente a seus dados de cultivo.<br>
-Efetuando o cadastro destas informações o produtor terá acesso a informações mais<br>
-clara e relevante como por exemplo:Previsões de Produtividade,Consulta do preço da saca em
+Efetuando o cadastro destas informações o produtor terá acesso a informações mais
+claras e relevantes.<br>
+Como por exemplo:Previsões de Produtividade,Consulta do preço da saca em
 sua região,consulta do período de chuva, histórico de compras e vendas dos produtos.<br>       
 
 ## Parceiro Acadêmico
