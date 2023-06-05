@@ -6,13 +6,11 @@
  
   </div>
 
-## Em 2022-1
-Desafio criação de um aplicativo para produtores rurais.<br>
-Estas informações consistem em dados alfa númericos e 
-imagens georreferenciadas pelo GPS do cselular.<br>
-Como solução: através dos dados de diversos usuários, o App fornecerá ao cliente informações 
-estatisticas<br> sobre sua produção, comparando - a com dados históricos acessados
-de APIs públicas e informáções atuais de outros usuários.
+## Desafio e Solução 2022-1
+<b>Desafio:</b> 
+<b>Como solução:</b> 
+
+
 
 ## Parceiro Acadêmico
 
