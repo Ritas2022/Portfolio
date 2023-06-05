@@ -7,11 +7,16 @@
   <a href="https://drive.google.com/file/d/1XZya1qtJWX7com6aUqc0zthrEIolo1CD/view?usp=sharing">Video da Apresentação do Projeto</a>
 </div>
 
-## Em 2021-1
-Objetivo desenvolvimento de uma aplicação web para solucionar problemas causados por dados de fontes diferentes.<br>
-Como solução fizemos a unificação dos dados em uma única base de dados.<br>
-Para apresentação das informações criamos um painel de controle onde é possivel 
-visualizar graficamente as informações. 
+## Desafio e Solução  2021-1
+
+<b>Desafio:</b> Efetuar a unificação de dados, gerados por ferramentas distintas de gerenciamento de projetos como por exemplo (Trello e Jira).<br>
+Apresentar estas informações em uma única dashboard.<br>
+
+<b>Como solução:</b> Criamos uma aplicação chamada DashW.<br>
+Efetuamos o tratamento de unificação dos dados, e apresentamos em uma única DashBoard.<br>
+Nesta aplicação desenvolvemos dois tipos de autenticação, uma para o CEO e outra para os Gestores.<br>
+Disponibilizamos três tipos de telas de navegação.<br>
+Proporcionando a visualização da quantidade de tarefas por card de status,gráficos com a estatística sobre o projeto selecionado e detalhes sobre as tarefas. 
 
 ## Parceiro Acadêmico
 Empresa parceira <a href="https://www.gsw.com.br/">GSW Soluções Integradas</a><br>
