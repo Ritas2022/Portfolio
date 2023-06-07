@@ -5,7 +5,7 @@
     </div>
 
   ## Formação Acadêmica:
-  * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Software.
+  * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Software.<br>
     Fatec - SJC
 
   * Técnico em Informática.<br>
