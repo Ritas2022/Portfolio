@@ -5,11 +5,16 @@
   <img src="https://user-images.githubusercontent.com/111800315/207038303-1d02eec2-2914-41eb-8789-012d2c0666e0.gif" width=150 alt="" />
  </div>
 
-## Em 2022-2
-Desafio criação de uma aplicação mobile para coleta de dados públicos,para auxilio
-da secretaria de obras e serviços publicos.<br>
-Como solução criamos uma aplicação mobile, onde o cliente tem por objetivo reportar
-problemas em sua cidade possibilitando assim: reportar uma ocorrência, visualizar as ocorrências, editar os dados cadastrais.    
+## Desafio e Solução 2022-2
+<b>Desafio:</b>  Desenvolver um aplicativo de fácil manuseio, onde através dele
+a sociedade possa de maneira rápida reportar os problemas de infraestrutura
+encontrados na cidade para a secretaria de obras públicas.<br>  
+
+<b>Como solução:</b> Desenvolvemos um aplicativo chamado - Ocorrências Públicas (OP).<br>
+Este aplicativo permite ao cidadão:<br>
+Efetuar seu cadastro,reportar uma ocorrência, visualizar as ocorrências<br>
+entre outras funcionalidades que facilitam a comunicação com a secretaria de obras públicas. 
+  
 
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal.</a><br>
