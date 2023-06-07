@@ -12,8 +12,8 @@ Como por exemplo :TED, DOC e demais tarifas disponíveis.<br>
 Utilizando os dados obtidos através do Open Finance(Sistema Financeiro Aberto). <br>  
 
 <b>Como solução:</b>Desenvolvemos um aplicativo chamada -SeeTax (Comparador e Analisador de Tarifas bancárias).<br>
-Esta aplicação permite informar ao usuário os respectivos valores das<br>
-tarifas e serviços que podem ser visualizados através de:
+Esta aplicação permite informar ao usuário os respectivos valores das tarifas e serviços.<br> 
+Que podem ser visualizados através de:<br>
 Indicadores(Exibe a média e o valor máximo atingido pelas tarifas)<br>Gráficos(Visualização das tarifas dos grupos consolidados por serviços oferecidos pela instituição bancária)<br>Tabelas(Visualização de tarifas por grupos consolidados, por serviço oferecido e por instituição bancária).<br> 
 
 ## Parceiro Acadêmico
