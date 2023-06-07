@@ -7,7 +7,7 @@
 
 ## Desafio e Solução 2022-2
 <b>Desafio:</b>  Desenvolver um aplicativo de fácil manuseio, onde através dele
-a sociedade possa de maneira rápida reportar os problemas de infraestrutura
+a sociedade possa de maneira rápida<br>reportar os problemas de infraestrutura
 encontrados na cidade para a secretaria de obras públicas.<br>  
 
 <b>Como solução:</b> Desenvolvemos um aplicativo chamado - Ocorrências Públicas (OP).<br>
