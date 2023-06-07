@@ -22,7 +22,7 @@
 3) [3º Projeto Gestão de Relacionamento com Clientes](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto3)-2021;
 4) [4º Projeto Aplicativo para Auxiliar Produtores Rurais.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto4)-2022;
 5) [5º Projeto Coleta de dados Público](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto5)-2022;
-6) [Sistema para acompanhamento de Tarifas Bancárias](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto6)-2023;
+6) [6º Projeto de Comparação e Análise de Tarifas Bancárias](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto6)-2023;
   </div>
 
   ## Meus Principais Conhecimentos
