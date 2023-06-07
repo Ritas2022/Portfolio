@@ -6,6 +6,7 @@
 
   ## Formação Acadêmica:
   * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Software.
+    Fatec - SJC
 
   * Técnico em Informática.<br>
     Colégio Técnico Antonio Teixeira Fernandes - Univap (2022-2004)  
