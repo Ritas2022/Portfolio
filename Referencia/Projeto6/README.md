@@ -5,9 +5,16 @@
   <img src="https://user-images.githubusercontent.com/111800315/236898876-10a4ae3f-43cb-4120-a598-b519c18ff03c.gif" width=500 alt="" />
  </div>
 
-## Em 2023-1
-Apresentar de forma intuitiva e fluida, uma ferramenta de comparação <br>
-de preços utilizando os dados fornecidos através do Open Finance. 
+## Desafio e Solução 2023-1
+
+<b>Desafio:</b> Desenvolver uma aplicação que possibilite analisar e comparar os valores cobrados referente às tarifas dos serviços bancários.<br>
+Como por exemplo :TED, DOC e demais tarifas disponíveis.<br>
+Utilizando os dados obtidos através do Open Finance(Sistema Financeiro Aberto). <br>  
+
+<b>Como solução:</b>Desenvolvemos um aplicativo chamada -SeeTax (Comparador e Analisador de Tarifas bancárias).<br>
+Esta aplicação permite informar ao usuário os respectivos valores das<br>
+tarifas e serviços que podem ser visualizados através de:<br>
+Indicadores(Exibe a média e o valor máximo atingido pelas tarifas)<br>Gráficos(Visualização das tarifas dos grupos consolidados por serviços oferecidos pela instituição bancária)<br>Tabelas(Visualização de tarifas por grupos consolidados, por serviço oferecido e por instituição bancária).<br> 
 
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br>
