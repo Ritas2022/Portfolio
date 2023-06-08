@@ -35,9 +35,9 @@ Como representante da empresa o Prof.Antonio Egydio.
 
 ## Contribuições Pessoais
 
-Referente a utilização do WordPress, auxiliei na parte de gerenciamento dos plugins.<br>
-Contribui no desenvolvimento dos conteúdos do material disponibilizado no site.<br>
-Contribui com o levantamento de requisitos para o desenvolvimento do projeto.<br>
+- Referente a utilização do WordPress, auxiliei na parte de gerenciamento dos plugins.<br>
+- Contribui no desenvolvimento dos conteúdos do material disponibilizado no site.<br>
+- Contribui com o levantamento de requisitos para o desenvolvimento do projeto.<br>
 
 ## Hard Skills
 - WordPress: É uma ferramenta que facilita a administração, não somente de blog e sites<br>, mas também de lojas virtuais e outras aplicações web.<br>
