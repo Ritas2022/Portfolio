@@ -13,9 +13,9 @@
 Como por exemplo: livros,videoaulas e pdfs voltados para a área de Tecnologia.
 
 <b>Como solução:</b> Criamos uma plataforma chamada Elite Academy.<br>
-Através deste site os clientes poderiam se cadastrar e fazer compras dos materiais didáticos.<br>
-Desenvolvemos uma tela onde os clientes poderiam visualizar uma lista com conteúdos e vantagens disponíveis na compra de determinados materiais de seu interesse.<br>
-Criamos uma funcionalidade onde o cliente teria a possibilidade de adicionar os conteúdos
+Através deste site os clientes podem se cadastrar e fazer compras dos materiais didáticos.<br>
+Desenvolvemos uma tela onde é possível a visualização de uma lista com conteúdos e vantagens disponíveis na compra de determinados materiais de seu interesse.<br>
+Criamos uma funcionalidade que permite ao usuário adicionar os conteúdos
 escolhidos em um carrinho de compras, consultar saldos de créditos disponíveis na plataforma, cadastrar-se na plataforma e finalizar suas compras.<br> 
 Estes são alguns exemplos do funcionamento da plataforma.   
 <br>
