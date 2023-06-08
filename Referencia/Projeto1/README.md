@@ -34,12 +34,10 @@ Como representante da empresa o Prof.Antonio Egydio.
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/f9b39075-4628-4485-a26c-8b954368b684" height="120" title="HTML-CSS"/>|HTLM - Linguagem de marcação de texto utilizada na construção das páginas. <br> CSS - Linguagem de estilização, definição de cores e aparência das telas.|
 
 ## Contribuições Pessoais
-* Contribui com a parte do Plano e Regras de Negócio Final.<br>
-* Consegui contribuir e somar na parte de conteúdo do site, mas matérias de Hardware.<br>
-* Ajudei muito a equipe neste contexto pelo fato de gostar deste tema.<br>
-* Preparei todo o material de vídeo e texto referente a matéria de AOC.<br>
-* Atualizei o conteúdo de matemática discreta, contribui na busca de informação referente<br> aos plugin WooCommerce, referente a criação do site.<br>
-* Parte de programação recuperação de senha do site, e cadastro de novos usuários.   
+
+Referente a utilização do WordPress, auxiliei na parte de gerenciamento dos plugins.<br>
+Contribui no desenvolvimento dos conteúdos do material disponibilizado no site.<br>
+Contribui com o levantamento de requisitos para o desenvolvimento do projeto.<br>
 
 ## Hard Skills
 - WordPress: É uma ferramenta que facilita a administração, não somente de blog e sites<br>, mas também de lojas virtuais e outras aplicações web.<br>
