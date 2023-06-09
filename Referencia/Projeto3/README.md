@@ -37,9 +37,8 @@ Empresa parceira <a href="https://pt-br.ionic.health/">IonicHealth</a>.<br>
 <br> 
 
 ## Contribuições Pessoais
-Contribui com a parte dos botões: nova negociação, novo pipeline, editar pipeline, deletar pipeline.<br>
-Na tela de usuario nas respostas as requisições, botão de logout, tela de contato
-respostas as requisições, tela company.  
+- Auxiliei na parte de frontend,no desenvolvimento das telas e criação dos botões.<br>
+- Contribui na prototipagem das telas do figma e no levantamento dos requisitos do projeto.<br>
 
 ## Hard Skills
 - Node.js -É um ambiente de execução JavaScript, linguagem padrão de manipulação
