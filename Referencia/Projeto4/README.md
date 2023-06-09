@@ -37,10 +37,12 @@ Empresa Parceira Visiona - <a href="https://www.visionaespacial.com.br/">Visiona
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/9d3d0c79-44f5-44c5-a1fa-f81437ba4230" height="100" title="SQlite"/>|Utilizado como banco de dado.|
 
 ## Contribuições Pessoais
-Contribui com a parte de organização do github.<br>
-Também contribui com o desenvolvimento de algumas telas do projeto.<br>
-Contribui com o desenvolvimento do BurnDown. 
 
+- Colaborei no desenvolvimento do repositório github do projeto.<br>
+- Contribui com a prototipagem das telas no figma.<br>
+- Colaborei no levantamento de requisitos do projeto.<br>
+- Frontend colaboração na página de cadastro da fazenda.<br>  
+ 
 ## Hard Skills
 
 - ReactNative - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
