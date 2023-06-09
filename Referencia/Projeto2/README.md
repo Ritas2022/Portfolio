@@ -30,17 +30,15 @@ Empresa parceira <a href="https://www.gsw.com.br/">GSW Soluções Integradas</a>
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/0411e69b-e643-4230-8ad6-c850380daa7c" height="90" title="NodeJS"/>|Utilizado como servidor da aplição.|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/54449233-45f0-4255-9da7-d0e2d95904a8" height="90" title="TypeScript"/>|Ferramenta para desenvolvimento do backend da aplicação.|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/d8139aed-2f42-4ed4-8c73-45bae51d4479" height="90" title="React"/>|Utilizado como framework para o Front-end da aplicação.|
-
    <br/>
-
+   
 ## Contribuições Pessoais
- * Contribui com a documentação do projeto.
- * Desenvolvimento do Burndown das Sprints.
- * Desenvolvimento do GitHub do projeto.
- * Desenvolvimento da atualização do vídeo da entrega final.
- * Desenvolvimento da programação do site.
- * Contribui também removendo as barreiras entre o desenvolvimento e o cliente.
-
+- Contribui como master da equipe, removendo as barreiras no desenvolvimento do projeto.
+- No FrontEnd auxiliei na correção dos Cards.
+- Colaborei no desenvolvimento do repositório github do projeto.
+- Na atualização da entrega do vídeo final.
+- Contribui com o desenvolvimento do protótipo das telas no figma.
+- Colaborei na tomada de decisão sobre o MVP das entregas. 
 ## Hard Skills
 * React - É uma estrutura de aplicativo móvel baseado na linguagem JavaScript;<br>
 Meus conecimentos adquiridos são adição de imagens e botõe, criação de componentes<br>
