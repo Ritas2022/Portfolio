@@ -34,7 +34,10 @@ Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/eae929ae-7438-40a0-b361-5995e8b3c64a" height="90" title="Python"/>|Utilizado no desenvolvimento da inteligência Artificial.|
 
 ## Contribuições Pessoais
-Como  Scrum Master protejo o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.Facilito a Reunião Diária, sou responsável pela remoção de quaisquer obstáculos observados pelo time durante estas reuniões.
+- Contribui como master da equipe, removendo as barreiras no desenvolvimento do projeto.<br>
+- No FrontEnd auxiliei adicionando rotas de Pessoas Fisicas e Juridicas, ajustando o alinhamento.<br>  
+- Colaborei no desenvolvimento do repositório github do projeto.<br>
+- Colaborei na tomada de decisão sobre o MVP das entregas.<br> 
 
 ## Hard Skills
 - Figma- sei fazer com autonomia
