@@ -31,8 +31,10 @@ Como representande da empresa o Prof.Gerson Neto.
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/65dfd464-8728-46d7-9ddf-882b4114eee5" height="90" title="Mongodb"/>|Utilizado para armazenamento dos dados da aplicação.|
 
 ## Contribuições Pessoais
-Contribui na criação do protótipo do figma.<br>
-Contribui na criação das telas do Walkthrough.
+- Contribui com a prototipagem das telas no figma.<br>
+- Auxiliei no levantamento de requisitos do projeto.<br>
+- No FrontEnd contribui na criação das telas do Walkthrough.<br>
+- Colaborei com as documentações do repositório github.<br>
 ## Hard Skills
 
 - Figma - É uma ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo.<br>
