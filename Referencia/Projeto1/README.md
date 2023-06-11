@@ -58,6 +58,6 @@ Os conhecimentos que eu adquiri em css,posicionamento dos elementos, fontes,core
 
 <b>Resiliência:</b> Precisei me adaptar em uma outra formação de grupo.<br>
 Pois na primeira formação de equipe do API não deu certo, neste momento precisei ter força interior.<br>
-Eu não tinha computador para fazer as atividades e colaborar com a equipe,<br>
-passei por momentos de estresse, mas consegui me recuperar desta adversidade e comprar
-os equipamentos necessários para continuar o curso. <br> 
+Eu não tinha computador parass fazer as atividades e colaborar com a equipe,<br>
+passei por momentos de estresse, mas consegui me recuperar desta adversidade.<br>
+Comprei os equipamentos necessários para continuar o curso. <br> 
