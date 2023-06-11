@@ -56,6 +56,8 @@ Os conhecimentos que eu adquiri em css,posicionamento dos elementos, fontes,core
 
 ## Soft Skills
 
-<b>Resiliência:</b> <br>
-Neste primeiro semestre onde iniciei o curso uma habilidade que consegui aprimorar<br> foi a resiliência pelo motivo de que o primeiro grupo que montamos não deu certo.<br>
-Então tive que me adaptar às mudanças, superar os problemas que encontramos no primeiro grupo,<br> me recuperar das adversidades, até mesmo para não cometer os mesmos erros que tivemos na primeira formação da equipe.
+<b>Resiliência:</b> Precisei me adaptar em uma outra formação de grupo.<br>
+Pois na primeira formação de equipe do API não deu certo, neste momento precisei<br>
+ter força interior, pois eu não tinha computador para poder fazer as atividades e colaborar com a equipe,<br>
+passei por momentos de estresse, mas consegui me recuperar desta adversidade e comprar
+os equipamentos necessários para continuar o curso. <br> 
