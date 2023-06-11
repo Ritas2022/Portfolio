@@ -54,7 +54,7 @@ A diferença é que o TypeScript aponta erros durante o desenvolvimento da aplic
 
 ## Soft Skills <br>
 <b>Comunicação:</b> Para conseguir transmitir a mensagem
-sobre o caminho que deveríamos seguir para alcançar
+sobre o caminho que deveríamos seguir<br>para alcançar
 o resultado esperado pelo cliente.<br>
 Fazendo as entregas de todas as sprints com êxito.<br>
 
