@@ -31,7 +31,7 @@ Empresa parceira <a href="https://www.gsw.com.br/">GSW Soluções Integradas</a>
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/54449233-45f0-4255-9da7-d0e2d95904a8" height="90" title="TypeScript"/>|Ferramenta para desenvolvimento do backend da aplicação.|
 |<img src="https://github.com/Ritas2022/Portfolio/assets/111800315/d8139aed-2f42-4ed4-8c73-45bae51d4479" height="90" title="React"/>|Utilizado como framework para o Front-end da aplicação.|
    <br/>
-   
+
 ## Contribuições Pessoais
 - Contribui como master da equipe, removendo as barreiras no desenvolvimento do projeto.
 - No FrontEnd auxiliei na correção dos Cards.
@@ -53,15 +53,8 @@ Consigo utilizar estes  conhecimentos com ajuda de videos explicativos;<br>
 A diferença é que o TypeScript aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não.<br>  
 
 ## Soft Skills <br>
-* <b> Trabalho em Equipe e Comunicação </b>
+<b>Comunicação:</b> Para conseguir transmitir a mensagem<br>
+sobre o caminho que deveríamos seguir para alcançar
+o resultado esperado pelo cliente.<br>
+Fazendo as entregas de todas as sprints com êxito.<br>
 
-Minhas habilidades em Soft Skills, foram aprimoradas com a aplicação do Projeto Integrador.<br>
-Neste projeto onde o objetivo era desenvolver uma aplicação Web para solucionar problemas<br>causados por fonte de dados diferentes.<br><br> 
-Eu tive a oportunidade de representar o Scrum master,dentro desta função de Scrum Master<br>observei que a dificuldade maior era fazer todos os integrantes da equipe caminhar juntos em <br>um mesmo objetivo e no mesmo ritmo, é neste sentido que o Scrum Master precisa ter a visão<br>de como agir,pois, é preciso incentivar os integrantes da equipe a adquirir o conhecimento técnico.<br><br>
-Mas o meu desafio maior foi motivar uma equipe sem ter uma visão mais abrangente de por onde começar.<br>
-Foi neste momento que entendi a importância das reuniões com a equipe, saber motivar cada integrante<br> individualmente dar um feedback plausível,fazendo com que o próprio integrante da equipe consiga<br> identificar onde ele precisa aprimorar seus conhecimentos.<br><br>
-A maior parte do tempo eu procurava deixar a equipe ciente de que estávamos todos em busca<br> da evolução dia-a-dia a fim de desenvolver o sistema no qual assumimos o compromisso de entregar.<br>
-Eu como Scrum Master procurava manter a equipe com mais “leveza” e assim proporcionar a criatividade<br> e a motivação de cada um.<br><br> 
-No meu ponto de vista pessoal eu consegui ter uma melhora significativa no que diz respeito a trabalho<br> em equipe e comunicação.<br>
-Particularmente foi um grande desafio pessoal de muito aprendizado e  sou grata por todos os integrantes<br> da equipe que contribuíram para o desenvolvimento do sistema pois conseguimos cumprir a responsabilidade<br> assumida.<br>
-Então identifico em mim como habilidades interpessoais, o Trabalho em Equipe e a Comunicação.
