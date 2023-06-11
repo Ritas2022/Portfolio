@@ -57,3 +57,5 @@ A diferença é que o TypeScript aponta erros durante o desenvolvimento da aplic
 sobre o caminho que deveríamos seguir<br>para alcançar
 o resultado esperado pelo cliente. Fazendo as entregas de todas as sprints com êxito.<br>
 
+<b>Habilidade Interpessoais:</b> Por representar a equipe como Scrum Master.<br>
+Foi necessário ter um bom relacionamento para conseguir unir a equipe e motivar cada integrante.<br> 
