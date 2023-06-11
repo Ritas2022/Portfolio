@@ -59,5 +59,9 @@ Meus conhecimentos adquiridos são adição de imagens e botõe, criação de co
 estilização, criação de listas;<br>
 
 ## Soft Skills
-<b>Resiliência:</b> <br>
-Pelo fato de já ter vindo de uma formação de equipe e logo depois ter que me adaptar novamente.
+<b>Controle Emocional:</b>Pelo motivo de ter pouco tempo para me dedicar ao projeto.<br>
+E sempre querer dar o melhor de mim para contribuir com a equipe.<br>
+Em muitos momentos me encontrei em situações relacionadas a tempo 
+desfavoráveis.<br>
+Nestes momentos precisei me controlar e fazer as entregas conforme<br> 
+me comprometi a fazer, sem olhar as circunstâncias desfavoráveis ao meu redor.<br>
