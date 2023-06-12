@@ -60,6 +60,6 @@ Como funciona: É uma ferramenta de algo que você só pode executar no navegado
 Consigo utilizar estes  conhecimentos com ajuda de videos explicativos;<br>
 
 ## Soft Skills
-Resiliência: Este processo de estudo é bastante desafiador, portanto todo este 
-tempo em que estou fazendo o curso, preciso muitas vezes rever todo meu comportamento 
-e minhas atitudes e recomeçar demostrando maturidade e força.   
+Empatia:Passamos por momentos difíceis para desenvolver esta aplicação.<br>
+Em muitos momentos me coloquei no lugar de outros colegas para entender<br> 
+seus sentimentos e assim,moldar-me de uma maneira melhor para contribuir com as entregas.<br>
