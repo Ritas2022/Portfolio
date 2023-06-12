@@ -49,7 +49,7 @@
   <img align="center" alt="Figma" height="60" width="70" src="https://github.com/Ritas2022/Portfolio/assets/111800315/b9b8e8ca-853c-42da-9926-329c81889e08">
  </div>
   Repositório de armazenamento:<br>
-  <img align="center" alt="github" height="60" width="70" src=" https://github.com/Ritas2022/Portfolio/assets/111800315/31dc99b0-af3c-4e0d-ae94-8effc62e11d2">
+  <img align="center" alt="github" height="60" width="70" src="https://github.com/Ritas2022/Portfolio/assets/111800315/90ab2c5a-7d18-48b9-81a0-d3a2ad7a067a">
 
   Noções Basicas de Hardware.<br>
   <img align="center" alt="Hardware" height="60" width="70" src="https://github.com/Ritas2022/Portfolio/assets/111800315/38dd54d0-8ba0-4c5a-b40d-5d75ae33387d">
