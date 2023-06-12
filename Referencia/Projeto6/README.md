@@ -47,5 +47,8 @@ Nosso parceiro acadêmico foi uma instituição de serviços financeiros.</a><br
 - Python- Adquirindo conhecimento
 
 ## Soft Skills
- <b> Trabalho em Equipe e Comunicação </b><br>
- Adquiri uma melhora significativa no que diz respeito a trabalho em equipe e comunicação.<br>
+ <b> Inteligência Emocional </b><br>
+Foi de extrema importância pelo motivo de ser necessário participar das reuniões de Scrum master,<br>
+onde fomos motivados a pensar com coerência para que nossos comportamentos ou o comportamento<br> 
+de qualquer integrante da equipe não comprometesse o desenvolvimento do projeto.<br>
+Fazendo se necessário a utilização todo tempo de minha habilidade social no gerenciamento do grupo.<br>
