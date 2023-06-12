@@ -60,7 +60,5 @@ Consigo utilizar está ferramenta com a ajuda de videos explicativos.
 
 ## Soft Skills
 
-Suportar críticas: Neste projeto eu tive bastante dificuldade em acompanhar 
-a equipe<br> por motivos pessoais.
-Então tive que saber lidar com algumas criticas, mas consegui entregar <br>
-o trabalho que me comprometi em desenvolver.
+Comunicação: Foi necessária para entender o que era esperado de cada integrante da equipe.<br>
+Utilizei a comunicação para entender o que era necessário fazer para efetuamos as entregas do API com êxito, e dentro do que estava sobre minha responsabilidade consegui colaborar com a equipe.<br> 
