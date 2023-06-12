@@ -60,4 +60,4 @@ Os conhecimentos que eu adquiri em css,posicionamento dos elementos, fontes,core
 Pois na primeira formação de equipe do API não deu certo, neste momento precisei ter força interior.<br>
 Eu não possuía computador para fazer as atividades e colaborar nas entregas,<br>
 passei por momentos de desmotivação, mas consegui me recuperar desta adversidade.<br>
-Comprei o equipamento necessário para continuar o curso. <br> 
+Comprei o equipamento necessário para continuar o curso e contribuir com as entregas das atividades do API. <br> 
