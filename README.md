@@ -32,26 +32,30 @@
 
   Linguagem de Programação: 
   <div style="display: inline_block">
-  <img align="center" alt="Js" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Python" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>  <br>
   Linguagem de Marcação:<br>
-  <div style="display: inline_block"><br>
-  
-  <img align="center" alt="HTML" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div style="display: inline_block"><br>  
+  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
   
   Prototipação: FIGMA.<br>
-
-  Repositório de armazenamento: GITHUB. <br>
+   <div style="display: inline_block"> 
+  <img align="center" alt="Figma" height="60" width="70" src="https://github.com/Ritas2022/Portfolio/assets/111800315/b9b8e8ca-853c-42da-9926-329c81889e08">
+ </div>
+  Repositório de armazenamento:<br>
+  <img align="center" alt="github" height="60" width="70" src=" https://github.com/Ritas2022/Portfolio/assets/111800315/31dc99b0-af3c-4e0d-ae94-8effc62e11d2">
 
   Noções Basicas de Hardware.<br>
+  <img align="center" alt="Hardware" height="60" width="70" src="https://github.com/Ritas2022/Portfolio/assets/111800315/38dd54d0-8ba0-4c5a-b40d-5d75ae33387d">
 
   Noções Basicas de Redes de Computadores.<br>
+  <img align="center" alt="Redes" height="60" width="70" src="https://github.com/Ritas2022/Portfolio/assets/111800315/0f62ef71-6220-4336-bf55-267cae1bb8db">
 
   ## Contatos
 * [GIT](https://github.com/ritas2022)
