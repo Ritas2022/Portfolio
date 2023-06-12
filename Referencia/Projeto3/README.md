@@ -59,9 +59,6 @@ Meus conhecimentos adquiridos são adição de imagens e botõe, criação de co
 estilização, criação de listas;<br>
 
 ## Soft Skills
-<b>Controle Emocional:</b>Pelo motivo de ter pouco tempo para me dedicar ao projeto.<br>
-E sempre querer dar o melhor de mim para contribuir com a equipe.<br>
-Em muitos momentos me encontrei em situações relacionadas a tempo 
-desfavoráveis.<br>
-Nestes momentos precisei me controlar e fazer as entregas conforme<br> 
-me comprometi a fazer, sem olhar as circunstâncias desfavoráveis ao meu redor.<br>
+<b>Controle Emocional:</b> Pelo motivo de em vários momentos me encontrar em situações de cobrança, falta de tempo.<br>
+Momentos de estresses no grupo por termos varias atividades paralelas e o API.<br>
+Nestes momentos precisei controlar meus sentimentos para não desistir do curso.<br> 
