@@ -60,6 +60,6 @@ Consigo utilizar está ferramenta com a ajuda de videos explicativos.
 
 ## Soft Skills
 
-Comunicação: Foi necessária para entender o que era esperado de cada integrante da equipe.<br>
+<b>Comunicação:</b> Foi necessária para entender o que era esperado de cada integrante da equipe.<br>
 Utilizei a comunicação para entender o que era necessário fazer para efetuamos as entregas do API com êxito.<br> 
 Dentro do que estava sobre minha responsabilidade consegui colaborar com a equipe.<br> 
