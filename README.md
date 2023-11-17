@@ -1,7 +1,7 @@
 # Portfólio 
 <div align=center>
   <img src="https://i.imgur.com/kEh4Dqy.png" width=200 alt="" />
-  <h2>Rita de Cássia Ferreira</h2>
+  <h2>Sandro de Araujo</h2>
     </div>
 
   ## Formação Acadêmica:
